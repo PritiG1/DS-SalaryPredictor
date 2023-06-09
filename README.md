@@ -23,6 +23,19 @@ The raw data (`...csv` files) obtained from the scraping process includes the fo
 - Location: The location of the job.
 - Salary: The salary estimate or range (if available).
 
+## Usage (Folder: 'Clean_data')
+
+This folder contains the cleaned datasets and the script used to clean the raw data.
+
+### Contents
+
+- `cleaning_rawdata.ipynb`: This Python script was used to clean the raw data and generate the cleaned datasets. It includes the necessary data cleaning steps, such as removing duplicates, handling missing values, and transforming the data.
+
+- `salary_clean_glassdoor.csv`: This file is the cleaned version of "datascientist_salary_glassdoor.csv" under the 'scrapper_raw_data' folder.
+
+- `salary_clean_naukri.csv`:This file is the cleaned version of "datascientist_salary_naukri.csv" under the 'scrapper_raw_data' folder. It has been processed to address data quality issues and is ready for analysis.
+
+Feel free to explore the cleaned datasets and use them for further analysis or research purposes.
 
 ## Acknowledgments
 - Ken Jee for providing inspiration and project ideas through his YouTube videos. 
