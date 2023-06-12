@@ -1,5 +1,5 @@
 # DS-SalaryPredictor
-Predicting Data Scientist Job Salaries: A data science project focused on predicting salaries for data scientists using machine learning techniques and relevant job market data.
+Predicting Data Scientist Job Salaries: A data science project focused on predicting salaries for data scientists using machine learning techniques and relevant job market data. We are focusing on the data obtained from job portal webpages: Naukri.com and Glassdoor
 
 ## Installation
 1. Make sure you have Python installed on your system.
@@ -36,6 +36,51 @@ This folder contains the cleaned datasets and the script used to clean the raw d
 - `salary_clean_naukri.csv`:This file is the cleaned version of "datascientist_salary_naukri.csv" under the 'scrapper_raw_data' folder. It has been processed to address data quality issues and is ready for analysis.
 
 Feel free to explore the cleaned datasets and use them for further analysis or research purposes.
+
+## Usage (Folder: EDA_naukri_glassdoor)
+
+This repository contains the EDA files and associated figures generated during the exploratory data analysis process.
+
+### Folder Structure
+
+- `EDA-naukri-glassdoor/`: The main folder containing the EDA files and associated figures.
+  - `Figures/`: Subfolder containing all the visualizations generated during the EDA for the naukri and glassdoor dataset.
+  - `.ipynb`: Jupyter Notebook script used for generating the EDA figures.
+
+### Description
+
+The EDA-files-figures folder contains the Jupyter Notebook script that was used to perform exploratory data analysis on the datasets. The script includes code for various data visualization techniques and statistical analysis.
+
+The Figures folder contains all the visualizations generated during the EDA process. These figures provide insights into the data, including distributions, trends, correlations, and other relevant information.
+
+### EDA Figures
+
+Here are a few examples of the EDA figures included in this repository:
+
+![Figure 1](EDA-naukri-glassdoor/naukri-EDA-figs/job_freq_loc_naukri.png)
+*Figure 1: Distribution of data related jobs across different states in India (as per data from Naukri.com, June 8th 2023)*
+
+![Figure 2](EDA-naukri-glassdoor/naukri-EDA-figs/experience_salary_job.png)
+*Figure 2: Distribution of Salary based on Jobtitle and Experience*
+
+![Figure 3](EDA-naukri-glassdoor/naukri-EDA-figs/joboffer_naukri.png)
+*Figure 3: Barplot of Top 10 Companies with the Highest Job Opportunities*
+
+![Figure 4](EDA-naukri-glassdoor/naukri-EDA-figs/corr_age_sal.png)
+*Figure 4: Correlation Heatmap of Salary and Experience*
+
+Please refer to the Jupyter Notebook script for more detailed code and additional visualizations.
+
+### Key Insights from Naukri.com Dataset Exploration
+
+1. Bangalore Shines Bright: Among metropolitan cities, Bangalore in Karnataka state emerges as a prime hub offering the highest job opportunities. Its vibrant tech ecosystem attracts professionals from diverse fields.
+
+2. Data Scientists' Dominance: Within the data science domain, it is evident that the average salary of data scientists surpasses that of other job roles. The demand for their expertise and specialized skills drives this trend.
+
+3. Unveiling Salary-Experience Link: The correlation coefficient of 0.6 between salary and experience unveils a moderately positive linear relationship. However, it's crucial to note that experience alone may not be the sole determinant of salary. Other influential factors encompass job performance, education, industry dynamics, and prevailing market conditions.
+
+These findings shed light on the prominent patterns observed in the Naukri.com dataset, empowering job seekers and industry enthusiasts with valuable insights into job opportunities, salary trends, and the intricate relationship between experience and earnings.
+
 
 ## Acknowledgments
 - Ken Jee for providing inspiration and project ideas through his YouTube videos. 
