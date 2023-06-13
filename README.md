@@ -82,7 +82,11 @@ Please refer to the Jupyter Notebook script for more detailed code and additiona
 These findings shed light on the prominent patterns observed in the Naukri.com dataset, empowering job seekers and industry enthusiasts with valuable insights into job opportunities, salary trends, and the intricate relationship between experience and earnings.
 
 ## Usage (Folder: model_build)
-This folder contains a Jupyter notebook showcasing various regression models applied to the dataset. I have added my templated for mutiple linear regression, polynomial regression, and random forest regresssion. The predictions of test data are off from the real values. Here are my learnings from my first ML project.
+This folder contains a Jupyter notebook showcasing various regression models applied to the dataset. I have added my templated for mutiple linear regression, polynomial regression, and random forest regresssion. The predictions of test data are off from the real values. 
+
+MAE(mean_absolute_error) = 5.43 Lacs (using multiple linear regression model)
+
+Here are my learnings from my first ML project.
 
 ### Learnings
 
