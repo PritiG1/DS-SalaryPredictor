@@ -81,10 +81,26 @@ Please refer to the Jupyter Notebook script for more detailed code and additiona
 
 These findings shed light on the prominent patterns observed in the Naukri.com dataset, empowering job seekers and industry enthusiasts with valuable insights into job opportunities, salary trends, and the intricate relationship between experience and earnings.
 
+## Usage (Folder: model_build)
+This folder contains a Jupyter notebook showcasing various regression models applied to the dataset. I have added my templated for mutiple linear regression, polynomial regression, and random forest regresssion. The predictions of test data are off from the real values. Here are my learnings from my first ML project.
+
+### Learnings
+
+While working on the regression models for this dataset, the following learnings and insights were gained:
+
+- **Need for Additional Features:** The performance of the models suggests that there is a potential benefit in including additional relevant features in the dataset. This could provide more insights and improve the predictive capability of the models.
+
+- **Model Evaluation and Selection:** The process of trying out various regression models allowed for a comparison of their performance. This exercise provided insights into the strengths and weaknesses of different models and helped identify the most suitable models for this dataset.
+
+- **Need for More Data Points:** The available dataset contained a limited number of data points. Increasing the size of the dataset would provide a larger and more diverse set of samples for the models to learn from. This could potentially improve the generalization and predictive capability of the models.
+
+Overall, this project has provided valuable insights and highlights areas for future improvement. By incorporating additional relevant features and applying further feature engineering techniques, it is anticipated that the model predictions can be further enhanced.
+
 
 ## Acknowledgments
 - Ken Jee for providing inspiration and project ideas through his YouTube videos. 
   Note: The scripts and data included in this repository are my own work.
+- The prompt and time-saving qualities of ChatGPT have been instrumental in accelerating my progress and providing insightful guidance.
 - The Selenium project for providing a powerful web automation framework.
 - The Pandas library for data manipulation and analysis.
 
