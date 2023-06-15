@@ -100,10 +100,36 @@ While working on the regression models for this dataset, the following learnings
 
 Overall, this project has provided valuable insights and highlights areas for future improvement. By incorporating additional relevant features and applying further feature engineering techniques, it is anticipated that the model predictions can be further enhanced.
 
+## Usage (Folder: Production-API)
+
+This repository contains the necessary files to deploy a Flask API for predicting the salary of a data scientist based on their experience.
+
+### Files
+
+1. `regression_model_ds.pkl`: This file is a trained machine learning model specifically designed to predict the salary of a data scientist. The model uses the data scientist's experience as an input and provides an estimated salary as the output.
+
+2. `app.py`: This file contains the Flask API implementation. It sets up the server and defines the necessary routes for receiving input details, processing them using the trained model, and returning the predicted salary as a response.
+
+3. `index.html`: This file is located inside the `templates` folder. It provides a user-friendly HTML template that allows users to enter their input details and displays the predicted salary on a local server.
+
+### Instructions
+
+To use this Flask API and predict the salary of a data scientist, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+   git clone <repository-url>
+2. Go to the 'Production-API' folder on your terminal and run 'python3 app.py'
+3. Open a web browser and navigate to http://localhost:5000 to access the HTML interface.
+4. Enter the required details, such as the data scientist's experience, and click the "Predict" button.
+5. The predicted salary will be displayed on the web page. Here's the demo:
+
+  ![Figure 5](Production-API/Demo-screenshot.png)
+  
 
 ## Acknowledgments
 - Ken Jee for providing inspiration and project ideas through his YouTube videos. 
   Note: The scripts and data included in this repository are my own work.
+- Helpful Youtube video for deploying the ML model using Flask and html template:https://www.youtube.com/watch?v=MxJnR1DMmsY
 - The prompt and time-saving qualities of ChatGPT have been instrumental in accelerating my progress and providing insightful guidance.
 - The Selenium project for providing a powerful web automation framework.
 - The Pandas library for data manipulation and analysis.
