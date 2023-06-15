@@ -1,0 +1,823 @@
+Job title,Company,Experience,Location,Salary,Salary (L),min Salary (L),max Salary (L),avg salary (L),Experience (yrs),min Experience (yrs),max Experience (yrs),avg Experience (yrs)
+Data Scientist,Tata Consultancy Services (TCS),4-8 Yrs,Bangalore,5-14 Lacs PA,5-14 ,5.0,14.0,9.5,4-8 ,4,8,6.0
+Data Scientist,Deloitte,9-14 Yrs,Bangalore,18-30 Lacs PA,18-30 ,18.0,30.0,24.0,9-14 ,9,14,11.5
+Data Scientist,Innominds Software,7-12 Yrs,Bangalore,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,7-12 ,7,12,9.5
+Data Scientist,IT Automation Llc,5-7 Yrs,remote,12-20 Lacs PA,12-20 ,12.0,20.0,16.0,5-7 ,5,7,6.0
+Data Scientist,Whizdm Innovations,2-5 Yrs,remote,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,2-5 ,2,5,3.5
+Data Scientist,Headhunter,4-9 Yrs,remote,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,4-9 ,4,9,6.5
+Data Scientist,Tata Consultancy Services (TCS),7-12 Yrs,Gurugram,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,7-12 ,7,12,9.5
+Data Scientist,Aujla Business Software,4-8 Yrs,Misc,40-50 Lacs PA,40-50 ,40.0,50.0,45.0,4-8 ,4,8,6.0
+Data Scientist,Crofarm,3-7 Yrs,Gurugram,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,3-7 ,3,7,5.0
+Data Scientist,Easy Data Analytics,4-6 Yrs,Bangalore,6-15 Lacs PA,6-15 ,6.0,15.0,10.5,4-6 ,4,6,5.0
+Data Scientist,Ontrack Hr Services,10-20 Yrs,Bangalore,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,10-20 ,10,20,15.0
+Data Scientist,DataBuzz Ltd,4-9 Yrs,hyderabad,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,4-9 ,4,9,6.5
+Data Scientist,Industrial Personnel Network,3-7 Yrs,Gurugram,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,3-7 ,3,7,5.0
+Data Scientist,Adler Talent Solutions,2-4 Yrs,Gujrat,6-8 Lacs PA,6-8 ,6.0,8.0,7.0,2-4 ,2,4,3.0
+Data Scientist,Shadow Placements,5-10 Yrs,Gurugram,7-14 Lacs PA,7-14 ,7.0,14.0,10.5,5-10 ,5,10,7.5
+Data Scientist,RK Hr Management,2-7 Yrs,Gujrat,13-22.5 Lacs PA,13-22.5 ,13.0,22.5,17.75,2-7 ,2,7,4.5
+Data Scientist,Quick Manpower Solutions India,3-8 Yrs,Maharashtra,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,3-8 ,3,8,5.5
+Data Scientist,Deloitte,3-8 Yrs,Bangalore,13-23 Lacs PA,13-23 ,13.0,23.0,18.0,3-8 ,3,8,5.5
+Data Scientist,Tech Mahindra,7-12 Yrs,Bangalore,30 Lacs PA,30 ,30.0,30.0,30.0,7-12 ,7,12,9.5
+Data Scientist,Neumile Iot,2-4 Yrs,Bangalore,4.5-5.5 Lacs PA,4.5-5.5 ,4.5,5.5,5.0,2-4 ,2,4,3.0
+Data Scientist,Brainsearch Consulting,3-7 Yrs,Gurugram,14-20 Lacs PA,14-20 ,14.0,20.0,17.0,3-7 ,3,7,5.0
+Data Scientist,Newpage Hr Solutions Llp,4-9 Yrs,Bangalore,8-12 Lacs PA,8-12 ,8.0,12.0,10.0,4-9 ,4,9,6.5
+Data Scientist,Brainsearch Consulting,2-6 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,2-6 ,2,6,4.0
+Data Scientist,Aspyra Hr Services,3-8 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,3-8 ,3,8,5.5
+Data Scientist,NDS InfoServ,0-2 Yrs,Maharashtra,12-15 Lacs PA,12-15 ,12.0,15.0,13.5,0-2 ,0,2,1.0
+Data Scientist,Tech Mahindra,12-20 Yrs,Pune,25-30 Lacs PA,25-30 ,25.0,30.0,27.5,12-20 ,12,20,16.0
+Data Scientist,Tech Mahindra,4-6 Yrs,Gurugram,15-22.5 Lacs PA,15-22.5 ,15.0,22.5,18.75,4-6 ,4,6,5.0
+Data Scientist,Talent Leads Hr Solutions,4-9 Yrs,Maharashtra,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,4-9 ,4,9,6.5
+Data Scientist,Chkmt Global Technologies,2-7 Yrs,Bangalore,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,2-7 ,2,7,4.5
+Data Scientist,Reward360,1-3 Yrs,Bangalore,6-13 Lacs PA,6-13 ,6.0,13.0,9.5,1-3 ,1,3,2.0
+Data Scientist,Werize,4-6 Yrs,Bangalore,20-27.5 Lacs PA,20-27.5 ,20.0,27.5,23.75,4-6 ,4,6,5.0
+Data Scientist,ATG Business Solutions,5-10 Yrs,Bangalore,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,5-10 ,5,10,7.5
+Data Scientist,People Powered Solutions,3-6 Yrs,Pune,7-15 Lacs PA,7-15 ,7.0,15.0,11.0,3-6 ,3,6,4.5
+Data Scientist,Innopark,5-6 Yrs,hyderabad,25-40 Lacs PA,25-40 ,25.0,40.0,32.5,5-6 ,5,6,5.5
+Data Scientist,Infinite Uptime India Pvt. Ltd.,2-4 Yrs,remote,12-18 Lacs PA (Including Variable: 10.0%),12-18  ,12.0,18.0,15.0,2-4 ,2,4,3.0
+Data Scientist,Tronlogix Tech pvt ltd.,5-10 Yrs,Chennai,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,5-10 ,5,10,7.5
+Data Scientist,Pinnacle Specialists,2-5 Yrs,Hybrid,4-8 Lacs PA,4-8 ,4.0,8.0,6.0,2-5 ,2,5,3.5
+Data Scientist,Flexi Careers India,7-12 Yrs,Chennai,27.5-37.5 Lacs PA,27.5-37.5 ,27.5,37.5,32.5,7-12 ,7,12,9.5
+Data Scientist,Creative Hands HR,2-6 Yrs,Chennai,8-13 Lacs PA,8-13 ,8.0,13.0,10.5,2-6 ,2,6,4.0
+Data Scientist,Elizabeth N Queen,3-8 Yrs,remote,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,3-8 ,3,8,5.5
+Data Scientist,Industrial Personnel Network,3-7 Yrs,Gurugram,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,3-7 ,3,7,5.0
+Data Scientist,Bsri Solutions,5-10 Yrs,Chennai,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,5-10 ,5,10,7.5
+Data Scientist,Aspyra Hr Services,5-10 Yrs,Bangalore,25-40 Lacs PA,25-40 ,25.0,40.0,32.5,5-10 ,5,10,7.5
+Data Scientist,Talentify,0-5 Yrs,Bangalore,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,0-5 ,0,5,2.5
+Data Scientist,Search Advisers Services Guj,6-10 Yrs,Bangalore,25-30 Lacs PA,25-30 ,25.0,30.0,27.5,6-10 ,6,10,8.0
+Data Scientist,Search Advisers Services Guj,5-10 Yrs,Bangalore,16-22.5 Lacs PA,16-22.5 ,16.0,22.5,19.25,5-10 ,5,10,7.5
+Data Scientist,Search Advisers Services Guj,6-10 Yrs,Bangalore,25-30 Lacs PA,25-30 ,25.0,30.0,27.5,6-10 ,6,10,8.0
+Data Scientist,Search Advisers Services Guj,5-10 Yrs,Bangalore,16-22.5 Lacs PA,16-22.5 ,16.0,22.5,19.25,5-10 ,5,10,7.5
+Data Scientist,Aliqan Services,7-10 Yrs,remote,25-40 Lacs PA,25-40 ,25.0,40.0,32.5,7-10 ,7,10,8.5
+Data Scientist,XA Group,5-10 Yrs,remote,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-10 ,5,10,7.5
+Data Scientist,M/S Hirelab,3-5 Yrs,Gurugram,30-35 Lacs PA,30-35 ,30.0,35.0,32.5,3-5 ,3,5,4.0
+Data Scientist,Aspyra Hr Services,5-9 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-9 ,5,9,7.0
+Data Scientist,Pylon Management Consulting,2-5 Yrs,remote,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,2-5 ,2,5,3.5
+Data Scientist,Sun Life,5-10 Yrs,Gurugram,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,5-10 ,5,10,7.5
+Data Scientist,Think People Solutions,7-12 Yrs,Maharashtra,27.5-40 Lacs PA,27.5-40 ,27.5,40.0,33.75,7-12 ,7,12,9.5
+Data Scientist,Aspyra Hr Services,3-8 Yrs,Gurugram,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,3-8 ,3,8,5.5
+Data Scientist,Planetskool,2-7 Yrs,Gurugram,6-12 Lacs PA,6-12 ,6.0,12.0,9.0,2-7 ,2,7,4.5
+Data Scientist,Vipsa Talent Solutions,8-12 Yrs,Bangalore,25-30 Lacs PA,25-30 ,25.0,30.0,27.5,8-12 ,8,12,10.0
+Data Scientist,Satc Marketing India,2-7 Yrs,remote,9-15 Lacs PA,9-15 ,9.0,15.0,12.0,2-7 ,2,7,4.5
+data engineer,Tata Consultancy Services (TCS),6-11 Yrs,Bangalore,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,6-11 ,6,11,8.5
+data engineer,Nexplace Info,4-8 Yrs,Bangalore,1-2.25 Lacs PA,1-2.25 ,1.0,2.25,1.625,4-8 ,4,8,6.0
+Data Analyst,Nexplace Info,6-11 Yrs,Bangalore,30-32.5 Lacs PA,30-32.5 ,30.0,32.5,31.25,6-11 ,6,11,8.5
+Data Analyst,Nexplace Info,6-11 Yrs,Bangalore,1-3 Lacs PA,1-3 ,1.0,3.0,2.0,6-11 ,6,11,8.5
+data engineer,Tata Consultancy Services (TCS),6-8 Yrs,Bangalore,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,6-8 ,6,8,7.0
+Data Scientist,Hexaware Technologies,7-10 Yrs,Bangalore,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,7-10 ,7,10,8.5
+ML Engineer,Tata Elxsi,7-12 Yrs,Bangalore,9-14 Lacs PA,9-14 ,9.0,14.0,11.5,7-12 ,7,12,9.5
+Data Analyst,Wipro,3-6 Yrs,Bangalore,10-16 Lacs PA,10-16 ,10.0,16.0,13.0,3-6 ,3,6,4.5
+Data Analyst,HARMAN,3-5 Yrs,Bangalore,7-17 Lacs PA,7-17 ,7.0,17.0,12.0,3-5 ,3,5,4.0
+Data Analyst,Sails Software Solutions,0-1 Yrs,Misc,2.5-3.5 Lacs PA,2.5-3.5 ,2.5,3.5,3.0,0-1 ,0,1,0.5
+data engineer,Nexplace Info,4-9 Yrs,Bangalore,22.5-27.5 Lacs PA,22.5-27.5 ,22.5,27.5,25.0,4-9 ,4,9,6.5
+data engineer,Nexplace Info,4-7 Yrs,Bangalore,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,4-7 ,4,7,5.5
+data engineer,Careernet Technologies,4-6 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-6 ,4,6,5.0
+data engineer,Teamlease Digital,6-9 Yrs,Bangalore,3.25-8.25 Lacs PA,3.25-8.25 ,3.25,8.25,5.75,6-9 ,6,9,7.5
+Data Analyst,Multi Recruit,5-10 Yrs,Bangalore,30-37.5 Lacs PA,30-37.5 ,30.0,37.5,33.75,5-10 ,5,10,7.5
+Data Analyst,Wonderla Holidays,3-6 Yrs,Bangalore,2.25-4 Lacs PA,2.25-4 ,2.25,4.0,3.125,3-6 ,3,6,4.5
+Data Analyst,Aranca,0-2 Yrs,Maharashtra,50000-1.75 Lacs PA,0.5-1.75 ,0.5,1.75,1.125,0-2 ,0,2,1.0
+data engineer,Artech,5-10 Yrs,remote,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,5-10 ,5,10,7.5
+data engineer,Tata Consultancy Services (TCS),2-7 Yrs,Bangalore,50000-2.75 Lacs PA,0.5-2.75 ,0.5,2.75,1.625,2-7 ,2,7,4.5
+data engineer,G7 Cr Technologies,0-1 Yrs,Bangalore,3-4 Lacs PA,3-4 ,3.0,4.0,3.5,0-1 ,0,1,0.5
+data engineer,Team Plus Staffing Solution,2-4 Yrs,Bangalore,7-10 Lacs PA,7-10 ,7.0,10.0,8.5,2-4 ,2,4,3.0
+data engineer,Team Plus Staffing Solution,3-8 Yrs,Bangalore,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,3-8 ,3,8,5.5
+data engineer,Wipro,4-9 Yrs,Bangalore,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,4-9 ,4,9,6.5
+data engineer,Concentrix Catalyst,4-9 Yrs,Bangalore,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,4-9 ,4,9,6.5
+data engineer,HARMAN,6-9 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,6-9 ,6,9,7.5
+data engineer,Brains N Skills,0-1 Yrs,Bangalore,1.5-2.75 Lacs PA,1.5-2.75 ,1.5,2.75,2.125,0-1 ,0,1,0.5
+data engineer,DEFTeam,0-1 Yrs,hyderabad,3.5-4 Lacs PA,3.5-4 ,3.5,4.0,3.75,0-1 ,0,1,0.5
+Data Analyst,Artech,5-8 Yrs,Bangalore,7-17 Lacs PA,7-17 ,7.0,17.0,12.0,5-8 ,5,8,6.5
+Data Analyst,NTT DATA Business Solutions Private Limited,5-8 Yrs,Hybrid,4.75-5.5 Lacs PA,4.75-5.5 ,4.75,5.5,5.125,5-8 ,5,8,6.5
+Data Analyst,M K Management Services,0-0 Yrs,Pune,3.25-3.5 Lacs PA,3.25-3.5 ,3.25,3.5,3.375,0-0 ,0,0,0.0
+data engineer,Hissar IT,8-12 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,8-12 ,8,12,10.0
+Data Scientist,Hissar IT,8-12 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,8-12 ,8,12,10.0
+data engineer,Aezion Technologies,8-13 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,8-13 ,8,13,10.5
+data engineer,Indiaexcite It Solutions,8-12 Yrs,Bangalore,20-32.5 Lacs PA,20-32.5 ,20.0,32.5,26.25,8-12 ,8,12,10.0
+data engineer,SLICeR Solutions Pvt. Ltd.,4-6 Yrs,Bangalore,7-12 Lacs PA,7-12 ,7.0,12.0,9.5,4-6 ,4,6,5.0
+data engineer,Allegis Group,8-13 Yrs,Bangalore,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,8-13 ,8,13,10.5
+data engineer,Allegis Group,8-12 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,8-12 ,8,12,10.0
+data engineer,ITC Infotech,5-8 Yrs,Bangalore,50000-60000 PA,0.5-0.6 ,0.5,0.6,0.55,5-8 ,5,8,6.5
+data engineer,Randstad,6-9 Yrs,Bangalore,1-6 Lacs PA,1-6 ,1.0,6.0,3.5,6-9 ,6,9,7.5
+data engineer,Nexplace Info,4-9 Yrs,Bangalore,1.25-2.25 Lacs PA,1.25-2.25 ,1.25,2.25,1.75,4-9 ,4,9,6.5
+Data Analyst,Axtria,7-12 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,7-12 ,7,12,9.5
+Data Analyst,Select Source International,6-10 Yrs,Bangalore,10-14 Lacs PA,10-14 ,10.0,14.0,12.0,6-10 ,6,10,8.0
+Data Analyst,Fabzen Technologies,2-4 Yrs,Bangalore,8-10 Lacs PA,8-10 ,8.0,10.0,9.0,2-4 ,2,4,3.0
+Data Analyst,Dainik Bhaskar Group,7-10 Yrs,Maharashtra,6-8 Lacs PA,6-8 ,6.0,8.0,7.0,7-10 ,7,10,8.5
+Data Analyst,Randstad India,2-7 Yrs,remote,2.5-7 Lacs PA,2.5-7 ,2.5,7.0,4.75,2-7 ,2,7,4.5
+data engineer,Techneplus Software India Private Limited,5-8 Yrs,Bangalore,25-32.5 Lacs PA,25-32.5 ,25.0,32.5,28.75,5-8 ,5,8,6.5
+Data Scientist,RMW India Services,8-13 Yrs,Bangalore,13-23 Lacs PA,13-23 ,13.0,23.0,18.0,8-13 ,8,13,10.5
+na,RMS Technologies,2-3 Yrs,Bangalore,3-4 Lacs PA,3-4 ,3.0,4.0,3.5,2-3 ,2,3,2.5
+Data Scientist,Support Star Corporate,7-10 Yrs,hyderabad,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,7-10 ,7,10,8.5
+data engineer,Allegis Group,6-11 Yrs,hyderabad,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,6-11 ,6,11,8.5
+data engineer,Tata Consultancy Services (TCS),5-10 Yrs,Bangalore,50000-2.75 Lacs PA,0.5-2.75 ,0.5,2.75,1.625,5-10 ,5,10,7.5
+ML Engineer,Strydo Technologies,0-2 Yrs,Misc,1-2.5 Lacs PA,1-2.5 ,1.0,2.5,1.75,0-2 ,0,2,1.0
+Data Analyst,Factspan Analytics,3-8 Yrs,Bangalore,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,3-8 ,3,8,5.5
+Data Analyst,"Retail Kloud9 Technologies India Pvt. Ltd.,",7-12 Yrs,Bangalore,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,7-12 ,7,12,9.5
+Data Analyst,Compass Group,2-5 Yrs,Maharashtra,2-5 Lacs PA,2-5 ,2.0,5.0,3.5,2-5 ,2,5,3.5
+Data Analyst,ReNew Power,1-4 Yrs,Gurugram,3-7 Lacs PA,3-7 ,3.0,7.0,5.0,1-4 ,1,4,2.5
+Data Analyst,Citicorp Finance,4-9 Yrs,Hybrid,15-27.5 Lacs PA,15-27.5 ,15.0,27.5,21.25,4-9 ,4,9,6.5
+Data Analyst,Acurus,0-3 Yrs,Chennai,3.5-4 Lacs PA,3.5-4 ,3.5,4.0,3.75,0-3 ,0,3,1.5
+Data Analyst,ActionEdge Research Services,0-3 Yrs,Gujrat,2.25-3 Lacs PA,2.25-3 ,2.25,3.0,2.625,0-3 ,0,3,1.5
+Data Analyst,National Institute for Smart Government (NISG),3-5 Yrs,Gurugram,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,3-5 ,3,5,4.0
+Data Analyst,Tenet Health Edutech,0-0 Yrs,Maharashtra,1.75-2.5 Lacs PA,1.75-2.5 ,1.75,2.5,2.125,0-0 ,0,0,0.0
+Data Analyst,Ohm Analytics,0-2 Yrs,Pune,1.5-3.5 Lacs PA,1.5-3.5 ,1.5,3.5,2.5,0-2 ,0,2,1.0
+Data Analyst,Technosoft Engineering,0-2 Yrs,Maharashtra,1-3 Lacs PA,1-3 ,1.0,3.0,2.0,0-2 ,0,2,1.0
+data engineer,Imaginators Try Going Beyond,4-7 Yrs,Bangalore,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,4-7 ,4,7,5.5
+data engineer,Imaginators Try Going Beyond,5-10 Yrs,Bangalore,17-25 Lacs PA,17-25 ,17.0,25.0,21.0,5-10 ,5,10,7.5
+data engineer,Lentra,8-12 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,8-12 ,8,12,10.0
+data engineer,Imaginators Try Going Beyond,4-7 Yrs,Bangalore,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,4-7 ,4,7,5.5
+data engineer,Imaginators Try Going Beyond,5-10 Yrs,Bangalore,17-25 Lacs PA,17-25 ,17.0,25.0,21.0,5-10 ,5,10,7.5
+data engineer,Tech Mahindra,6-11 Yrs,hyderabad,7-17 Lacs PA,7-17 ,7.0,17.0,12.0,6-11 ,6,11,8.5
+data engineer,Manpowergroup Services India,5-10 Yrs,Hybrid,11-21 Lacs PA,11-21 ,11.0,21.0,16.0,5-10 ,5,10,7.5
+data engineer,Citrix,4-9 Yrs,Bangalore,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,4-9 ,4,9,6.5
+data engineer,Luxoft,6-10 Yrs,remote,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,6-10 ,6,10,8.0
+na,Newpage Hr Solutions Llp,1-6 Yrs,Bangalore,5-10 Lacs PA,5-10 ,5.0,10.0,7.5,1-6 ,1,6,3.5
+data engineer,Infogain,4-9 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-9 ,4,9,6.5
+data engineer,Team Plus Staffing Solution,3-8 Yrs,hyderabad,12-20 Lacs PA,12-20 ,12.0,20.0,16.0,3-8 ,3,8,5.5
+data engineer,Cognizant,9-12 Yrs,Bangalore,13-23 Lacs PA,13-23 ,13.0,23.0,18.0,9-12 ,9,12,10.5
+data engineer,Virtual Caliber,5-10 Yrs,Bangalore,1-6 Lacs PA,1-6 ,1.0,6.0,3.5,5-10 ,5,10,7.5
+data engineer,ITC Infotech,5-9 Yrs,Bangalore,12-18 Lacs PA,12-18 ,12.0,18.0,15.0,5-9 ,5,9,7.0
+data engineer,Tech Mahindra,5-10 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,5-10 ,5,10,7.5
+data engineer,Nexplace Info,4-8 Yrs,Bangalore,50000-2.25 Lacs PA,0.5-2.25 ,0.5,2.25,1.375,4-8 ,4,8,6.0
+ML Engineer,Gibraltar Technologies Llc,8-10 Yrs,Bangalore,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,8-10 ,8,10,9.0
+Data Scientist,Indiaexcite It Solutions,5-9 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,5-9 ,5,9,7.0
+data engineer,PBI Analytics,0-1 Yrs,remote,1.5-2 Lacs PA,1.5-2 ,1.5,2.0,1.75,0-1 ,0,1,0.5
+ML Engineer,Advance Career Solutions,6-10 Yrs,Bangalore,8.5-18.5 Lacs PA,8.5-18.5 ,8.5,18.5,13.5,6-10 ,6,10,8.0
+data engineer,Excel Talent Plus,5-10 Yrs,hyderabad,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,5-10 ,5,10,7.5
+Data Analyst,Vuca Consulting,5-10 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-10 ,5,10,7.5
+Data Analyst,Shadowfax Technologies,2-5 Yrs,Bangalore,4-6 Lacs PA,4-6 ,4.0,6.0,5.0,2-5 ,2,5,3.5
+data engineer,EDGE Executive,5-9 Yrs,hyderabad,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-9 ,5,9,7.0
+data engineer,Krazy Mantra,7-12 Yrs,remote,30-40 Lacs PA,30-40 ,30.0,40.0,35.0,7-12 ,7,12,9.5
+data engineer,HR Central,7-12 Yrs,Bangalore,18-30 Lacs PA,18-30 ,18.0,30.0,24.0,7-12 ,7,12,9.5
+data engineer,Imaginators Try Going Beyond,5-10 Yrs,Bangalore,9.5-19.5 Lacs PA,9.5-19.5 ,9.5,19.5,14.5,5-10 ,5,10,7.5
+data engineer,Green Start,10-20 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,10-20 ,10,20,15.0
+data engineer,Info Edge,3-6 Yrs,Uttar pradesh,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,3-6 ,3,6,4.5
+data engineer,Exponentia Datalabs,4-6 Yrs,Bangalore,12-16 Lacs PA,12-16 ,12.0,16.0,14.0,4-6 ,4,6,5.0
+data engineer,Hissar IT,3-8 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,3-8 ,3,8,5.5
+data engineer,Aanseaa Technologies,6-10 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,6-10 ,6,10,8.0
+data engineer,Staffspectrum Services,7-12 Yrs,Bangalore,40-45 Lacs PA,40-45 ,40.0,45.0,42.5,7-12 ,7,12,9.5
+data engineer,Symphoni Hr,5-10 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-10 ,5,10,7.5
+data engineer,Multi Recruit,5-9 Yrs,Bangalore,30-35 Lacs PA,30-35 ,30.0,35.0,32.5,5-9 ,5,9,7.0
+data engineer,Ascendion Engineering,10-15 Yrs,remote,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,10-15 ,10,15,12.5
+data engineer,Citrix,4-9 Yrs,Bangalore,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,4-9 ,4,9,6.5
+data engineer,News Technology Services,4-8 Yrs,Bangalore,22.5-25 Lacs PA,22.5-25 ,22.5,25.0,23.75,4-8 ,4,8,6.0
+data engineer,Olive Green Consulting,6-10 Yrs,Bangalore,11-20 Lacs PA,11-20 ,11.0,20.0,15.5,6-10 ,6,10,8.0
+Data Scientist,We Remote Devs Pvt Ltd.,8-13 Yrs,Bangalore,30-45 Lacs PA,30-45 ,30.0,45.0,37.5,8-13 ,8,13,10.5
+data engineer,Abzooba India Infotech,8-12 Yrs,Maharashtra,22.5-27.5 Lacs PA,22.5-27.5 ,22.5,27.5,25.0,8-12 ,8,12,10.0
+data engineer,Venpa Staffing,5-8 Yrs,Bangalore,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,5-8 ,5,8,6.5
+data engineer,Buyersroad,2-5 Yrs,Bangalore,10-16 Lacs PA,10-16 ,10.0,16.0,13.0,2-5 ,2,5,3.5
+data engineer,Imaginators Try Going Beyond,7-12 Yrs,Bangalore,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,7-12 ,7,12,9.5
+data engineer,Imaginators Try Going Beyond,3-8 Yrs,Bangalore,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,3-8 ,3,8,5.5
+data engineer,Imaginators Try Going Beyond,3-8 Yrs,Bangalore,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,3-8 ,3,8,5.5
+data engineer,Artech,4-9 Yrs,Bangalore,8-15 Lacs PA,8-15 ,8.0,15.0,11.5,4-9 ,4,9,6.5
+data engineer,One of the largest IT services organizations,5-9 Yrs,Bangalore,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,5-9 ,5,9,7.0
+data engineer,Tech Mahindra,4-9 Yrs,hyderabad,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-9 ,4,9,6.5
+data engineer,2coms,3-8 Yrs,hyderabad,4.75-9.75 Lacs PA,4.75-9.75 ,4.75,9.75,7.25,3-8 ,3,8,5.5
+ML Engineer,Notus Services,8-13 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,8-13 ,8,13,10.5
+python developer,Relu Consultancy,0-2 Yrs,remote,2-5 Lacs PA,2-5 ,2.0,5.0,3.5,0-2 ,0,2,1.0
+Data Analyst,Selective Global Search,2-6 Yrs,Misc,3-5.5 Lacs PA,3-5.5 ,3.0,5.5,4.25,2-6 ,2,6,4.0
+Data Scientist,Epam Systems,7-12 Yrs,Bangalore,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,7-12 ,7,12,9.5
+Data Analyst,IntraEdge Technology,7-12 Yrs,Bangalore,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,7-12 ,7,12,9.5
+ML Engineer,Pyramid Human Resources Consultancy,10-15 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,10-15 ,10,15,12.5
+Data Analyst,Krazy Mantra,7-12 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,7-12 ,7,12,9.5
+Data Analyst,Skillmine Technology Consulting,4-6 Yrs,Bangalore,11-13 Lacs PA,11-13 ,11.0,13.0,12.0,4-6 ,4,6,5.0
+Data Analyst,Skillmine Technology Consulting,4-6 Yrs,Bangalore,4.75-9.75 Lacs PA,4.75-9.75 ,4.75,9.75,7.25,4-6 ,4,6,5.0
+Data Analyst,Search Advisers Services Guj,3-5 Yrs,Bangalore,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,3-5 ,3,5,4.0
+Data Analyst,Pylon Management Consulting,2-4 Yrs,Bangalore,10-12 Lacs PA,10-12 ,10.0,12.0,11.0,2-4 ,2,4,3.0
+Data Analyst,Search Advisers Services Guj,3-5 Yrs,Bangalore,9.5-15 Lacs PA,9.5-15 ,9.5,15.0,12.25,3-5 ,3,5,4.0
+Data Analyst,APC Consultants,2-7 Yrs,Chennai,4-7 Lacs PA,4-7 ,4.0,7.0,5.5,2-7 ,2,7,4.5
+Data Analyst,Luv Sethi,5-10 Yrs,remote,8-16 Lacs PA,8-16 ,8.0,16.0,12.0,5-10 ,5,10,7.5
+Data Scientist,Tata Consultancy Services (TCS),8-13 Yrs,Bangalore,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,8-13 ,8,13,10.5
+Data Scientist,Tata Consultancy Services (TCS),4-8 Yrs,Bangalore,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,4-8 ,4,8,6.0
+Data Scientist,Brainsearch Consulting,10-16 Yrs,Bangalore,40-60 Lacs PA,40-60 ,40.0,60.0,50.0,10-16 ,10,16,13.0
+data engineer,Selective Global Search,7-12 Yrs,Bangalore,30-40 Lacs PA,30-40 ,30.0,40.0,35.0,7-12 ,7,12,9.5
+data engineer,Selective Global Search,7-12 Yrs,Bangalore,30-40 Lacs PA,30-40 ,30.0,40.0,35.0,7-12 ,7,12,9.5
+data engineer,Snapminds Technologies,7-12 Yrs,Bangalore,35-60 Lacs PA,35-60 ,35.0,60.0,47.5,7-12 ,7,12,9.5
+data engineer,Wipzo Systech,7-10 Yrs,Bangalore,30-40 Lacs PA,30-40 ,30.0,40.0,35.0,7-10 ,7,10,8.5
+data engineer,Selective Global Search,5-10 Yrs,Bangalore,25-30 Lacs PA,25-30 ,25.0,30.0,27.5,5-10 ,5,10,7.5
+data engineer,XA Group,5-8 Yrs,remote,18-30 Lacs PA,18-30 ,18.0,30.0,24.0,5-8 ,5,8,6.5
+data engineer,Lykora Consulting,6-9 Yrs,Bangalore,6.5-16.5 Lacs PA,6.5-16.5 ,6.5,16.5,11.5,6-9 ,6,9,7.5
+data engineer,Live Connections,3-8 Yrs,remote,25-40 Lacs PA,25-40 ,25.0,40.0,32.5,3-8 ,3,8,5.5
+data engineer,Imerit,8-13 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,8-13 ,8,13,10.5
+data engineer,Masadir Hr Services,5-7 Yrs,Pune,15-27.5 Lacs PA,15-27.5 ,15.0,27.5,21.25,5-7 ,5,7,6.0
+Data Analyst,Rudder Analytics,3-6 Yrs,Pune,8-16 Lacs PA,8-16 ,8.0,16.0,12.0,3-6 ,3,6,4.5
+data engineer,Mijas Consultants,4-7 Yrs,Maharashtra,11-21 Lacs PA,11-21 ,11.0,21.0,16.0,4-7 ,4,7,5.5
+data engineer,Talent21,5-10 Yrs,Bangalore,60000-80000 PA,0.6-0.8 ,0.6,0.8,0.7,5-10 ,5,10,7.5
+data engineer,Epam Systems,4-9 Yrs,Bangalore,16-30 Lacs PA,16-30 ,16.0,30.0,23.0,4-9 ,4,9,6.5
+data engineer,KPI Partners,8-13 Yrs,Bangalore,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,8-13 ,8,13,10.5
+data engineer,KPI Partners,5-10 Yrs,Bangalore,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,5-10 ,5,10,7.5
+data engineer,Mckinsol Consulting,2-7 Yrs,Bangalore,8-16 Lacs PA,8-16 ,8.0,16.0,12.0,2-7 ,2,7,4.5
+data engineer,Vanshria Holdings And Ventures,5-8 Yrs,remote,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,5-8 ,5,8,6.5
+data engineer,Ascendion Engineering,4-9 Yrs,remote,15-22.5 Lacs PA,15-22.5 ,15.0,22.5,18.75,4-9 ,4,9,6.5
+data engineer,Exponentia Datalabs,2-4 Yrs,Bangalore,7-12 Lacs PA,7-12 ,7.0,12.0,9.5,2-4 ,2,4,3.0
+data engineer,Customer Centria,5-6 Yrs,Bangalore,12-17 Lacs PA,12-17 ,12.0,17.0,14.5,5-6 ,5,6,5.5
+data engineer,Truebonzer,5-10 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-10 ,5,10,7.5
+data engineer,Gibraltar Technologies Llc,8-10 Yrs,Bangalore,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,8-10 ,8,10,9.0
+data engineer,Winwire Technologies,5-8 Yrs,Bangalore,16-20 Lacs PA,16-20 ,16.0,20.0,18.0,5-8 ,5,8,6.5
+data engineer,CTD Techs,5-10 Yrs,Bangalore,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,5-10 ,5,10,7.5
+Data Scientist,Masterkube,2-5 Yrs,Bangalore,5-12 Lacs PA,5-12 ,5.0,12.0,8.5,2-5 ,2,5,3.5
+data engineer,PwC,4-9 Yrs,Kolkata,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,4-9 ,4,9,6.5
+data engineer,Espire Infolabs,6-10 Yrs,Gurugram,8-15 Lacs PA,8-15 ,8.0,15.0,11.5,6-10 ,6,10,8.0
+data engineer,Tata Technologies,3-5 Yrs,Maharashtra,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,3-5 ,3,5,4.0
+data engineer,Koantek Cloud And Ai Services,0-1 Yrs,remote,5-7 Lacs PA,5-7 ,5.0,7.0,6.0,0-1 ,0,1,0.5
+data engineer,Tata Technologies,3-6 Yrs,Maharashtra,6-10 Lacs PA,6-10 ,6.0,10.0,8.0,3-6 ,3,6,4.5
+data engineer,RSn G Info Solutions,1-2 Yrs,Hybrid,2.5-3.5 Lacs PA,2.5-3.5 ,2.5,3.5,3.0,1-2 ,1,2,1.5
+Data Analyst,Career Consulting Professionals,7-12 Yrs,Uttar pradesh,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,7-12 ,7,12,9.5
+Data Analyst,Aarushi Consulting Services,2-4 Yrs,Maharashtra,4-5 Lacs PA,4-5 ,4.0,5.0,4.5,2-4 ,2,4,3.0
+Data Analyst,Medanta,2-5 Yrs,Gurugram,2.5-3.25 Lacs PA,2.5-3.25 ,2.5,3.25,2.875,2-5 ,2,5,3.5
+Data Analyst,Skillsandjob,4-9 Yrs,Gurugram,4-7 Lacs PA,4-7 ,4.0,7.0,5.5,4-9 ,4,9,6.5
+Data Analyst,Ardem Data Services,1-2 Yrs,Uttar pradesh,1.25-1.75 Lacs PA,1.25-1.75 ,1.25,1.75,1.5,1-2 ,1,2,1.5
+Data Analyst,Engineered Seal Products (ESP),2-5 Yrs,Chennai,3-6 Lacs PA,3-6 ,3.0,6.0,4.5,2-5 ,2,5,3.5
+Data Analyst,Waybeo Technology Solutions Pvt Ltd.,1-3 Yrs,Kerala,3-5 Lacs PA,3-5 ,3.0,5.0,4.0,1-3 ,1,3,2.0
+Data Scientist,Brainsearch Consulting,9-14 Yrs,Bangalore,35-45 Lacs PA,35-45 ,35.0,45.0,40.0,9-14 ,9,14,11.5
+data engineer,Masadir Hr Services,8-12 Yrs,Maharashtra,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,8-12 ,8,12,10.0
+data engineer,Torinit Consulting Services,5-8 Yrs,remote,16-30 Lacs PA,16-30 ,16.0,30.0,23.0,5-8 ,5,8,6.5
+data engineer,Evolent Health,5-9 Yrs,Hybrid,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,5-9 ,5,9,7.0
+data engineer,In Time Tec,3-7 Yrs,Bangalore,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,3-7 ,3,7,5.0
+data engineer,Evoke HR,3-8 Yrs,Bangalore,8-10 Lacs PA,8-10 ,8.0,10.0,9.0,3-8 ,3,8,5.5
+data engineer,Selective Global Search,3-8 Yrs,Bangalore,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,3-8 ,3,8,5.5
+data engineer,Macrohire,5-7 Yrs,Bangalore,15-22.5 Lacs PA,15-22.5 ,15.0,22.5,18.75,5-7 ,5,7,6.0
+data engineer,Whizdm Innovations,3-6 Yrs,Bangalore,15-27.5 Lacs PA,15-27.5 ,15.0,27.5,21.25,3-6 ,3,6,4.5
+data engineer,Sdna Global,7-12 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,7-12 ,7,12,9.5
+Data Scientist,Krazy Mantra,4-7 Yrs,Bangalore,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,4-7 ,4,7,5.5
+data engineer,Resources Valley,3-8 Yrs,Bangalore,9-18 Lacs PA,9-18 ,9.0,18.0,13.5,3-8 ,3,8,5.5
+data engineer,Mount Talent Consulting,6-9 Yrs,Bangalore,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,6-9 ,6,9,7.5
+data engineer,3minds Esolutions,5-10 Yrs,Bangalore,50000-2.5 Lacs PA,0.5-2.5 ,0.5,2.5,1.5,5-10 ,5,10,7.5
+data engineer,CTD Techs,4-9 Yrs,Bangalore,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,4-9 ,4,9,6.5
+data engineer,Mascot E-services,4-9 Yrs,Bangalore,13-23 Lacs PA,13-23 ,13.0,23.0,18.0,4-9 ,4,9,6.5
+data engineer,3minds Esolutions,5-10 Yrs,remote,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-10 ,5,10,7.5
+data engineer,Zen Data Shastra,3-8 Yrs,Bangalore,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,3-8 ,3,8,5.5
+data engineer,TSIT Digital,8-13 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,8-13 ,8,13,10.5
+data engineer,Factspan Analytics,6-10 Yrs,Bangalore,10-17 Lacs PA,10-17 ,10.0,17.0,13.5,6-10 ,6,10,8.0
+data engineer,Think People Solutions,4-9 Yrs,Bangalore,14-19 Lacs PA,14-19 ,14.0,19.0,16.5,4-9 ,4,9,6.5
+data engineer,Black And White Business Solutions,4-9 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,4-9 ,4,9,6.5
+data engineer,Univ.AI,4-8 Yrs,Bangalore,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,4-8 ,4,8,6.0
+data engineer,Samprasoft Technologies,3-8 Yrs,remote,3-6 Lacs PA,3-6 ,3.0,6.0,4.5,3-8 ,3,8,5.5
+data engineer,Imaginators Try Going Beyond,6-11 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,6-11 ,6,11,8.5
+na,On Time Solutions,6-8 Yrs,Bangalore,10-14 Lacs PA,10-14 ,10.0,14.0,12.0,6-8 ,6,8,7.0
+data engineer,Olive Green Consulting,5-8 Yrs,Bangalore,12-18 Lacs PA,12-18 ,12.0,18.0,15.0,5-8 ,5,8,6.5
+data engineer,Tech Mahindra,6-9 Yrs,hyderabad,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,6-9 ,6,9,7.5
+Data Scientist,IRI worldwide A Circana company,4-9 Yrs,Hybrid,16-22.5 Lacs PA,16-22.5 ,16.0,22.5,19.25,4-9 ,4,9,6.5
+data engineer,Selective Global Search,8-12 Yrs,Bangalore,13-23 Lacs PA,13-23 ,13.0,23.0,18.0,8-12 ,8,12,10.0
+ML Engineer,Vservice It Solutions,6-10 Yrs,Bangalore,8-17 Lacs PA,8-17 ,8.0,17.0,12.5,6-10 ,6,10,8.0
+data engineer,Starinco,3-8 Yrs,Kolkata,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,3-8 ,3,8,5.5
+Lead,Thakral One,6-8 Yrs,Bangalore,14-20 Lacs PA,14-20 ,14.0,20.0,17.0,6-8 ,6,8,7.0
+na,Buzzworks Business Services,6-10 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,6-10 ,6,10,8.0
+Data Analyst,Aavas Financiers,1-3 Yrs,Misc,2-4.5 Lacs PA,2-4.5 ,2.0,4.5,3.25,1-3 ,1,3,2.0
+Data Analyst,ANSI IT Solutions Ltd,5-10 Yrs,remote,18-30 Lacs PA,18-30 ,18.0,30.0,24.0,5-10 ,5,10,7.5
+Data Analyst,Quinte Financial Technologies,2-6 Yrs,Chennai,4-6 Lacs PA,4-6 ,4.0,6.0,5.0,2-6 ,2,6,4.0
+Data Analyst,Donovan Apparels,2-5 Yrs,Gurugram,3-5 Lacs PA,3-5 ,3.0,5.0,4.0,2-5 ,2,5,3.5
+Data Analyst,Pharmarack Technologies,1-3 Yrs,Maharashtra,7-11 Lacs PA,7-11 ,7.0,11.0,9.0,1-3 ,1,3,2.0
+Data Analyst,Vision Unlimited,1-6 Yrs,chandigarh,3-4.75 Lacs PA,3-4.75 ,3.0,4.75,3.875,1-6 ,1,6,3.5
+Data Analyst,Sitics Logistic Solutions,3-8 Yrs,Kerala,2-4.5 Lacs PA,2-4.5 ,2.0,4.5,3.25,3-8 ,3,8,5.5
+Data Analyst,Marvel Placements,5-10 Yrs,Uttar pradesh,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,5-10 ,5,10,7.5
+Data Analyst,Chaayos,2-6 Yrs,Gurugram,3-4.5 Lacs PA,3-4.5 ,3.0,4.5,3.75,2-6 ,2,6,4.0
+manager,Wolters Kluwer,12-18 Yrs,Hybrid,25-35 Lacs PA,25-35 ,25.0,35.0,30.0,12-18 ,12,18,15.0
+data engineer,Wipzo Systech,7-10 Yrs,Maharashtra,27.5-35 Lacs PA,27.5-35 ,27.5,35.0,31.25,7-10 ,7,10,8.5
+data engineer,TransOrg,5-9 Yrs,Maharashtra,11-20 Lacs PA,11-20 ,11.0,20.0,15.5,5-9 ,5,9,7.0
+data engineer,Coditas Technologies,5-10 Yrs,Pune,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,5-10 ,5,10,7.5
+data engineer,EDGE Executive,5-10 Yrs,hyderabad,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-10 ,5,10,7.5
+data engineer,Wipzo Systech,6-10 Yrs,Gurugram,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,6-10 ,6,10,8.0
+Data Analyst,Rudder Analytics,3-6 Yrs,Pune,8-16 Lacs PA,8-16 ,8.0,16.0,12.0,3-6 ,3,6,4.5
+data engineer,Data Radian Technologies,5-10 Yrs,remote,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,5-10 ,5,10,7.5
+data engineer,Multi Recruit,5-10 Yrs,hyderabad,40-50 Lacs PA,40-50 ,40.0,50.0,45.0,5-10 ,5,10,7.5
+data engineer,Krazy Mantra,7-12 Yrs,Gurugram,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,7-12 ,7,12,9.5
+Data Analyst,Premium,7-12 Yrs,Hybrid,18-32.5 Lacs PA,18-32.5 ,18.0,32.5,25.25,7-12 ,7,12,9.5
+data engineer,Excelra,6-11 Yrs,remote,17-20 Lacs PA (Including Variable: 10.0%),17-20  ,17.0,20.0,18.5,6-11 ,6,11,8.5
+data engineer,Multi Recruit,4-6 Yrs,Maharashtra,16-18 Lacs PA,16-18 ,16.0,18.0,17.0,4-6 ,4,6,5.0
+data engineer,Multi Recruit,4-6 Yrs,Maharashtra,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,4-6 ,4,6,5.0
+data engineer,Krazy Mantra,7-12 Yrs,Gurugram,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,7-12 ,7,12,9.5
+data engineer,On Demand Agility Software,12-16 Yrs,Hybrid,40-60 Lacs PA,40-60 ,40.0,60.0,50.0,12-16 ,12,16,14.0
+data engineer,Experis,6-10 Yrs,Bangalore,7-12 Lacs PA,7-12 ,7.0,12.0,9.5,6-10 ,6,10,8.0
+data engineer,NR Consulting,5-8 Yrs,Bangalore,15-22.5 Lacs PA,15-22.5 ,15.0,22.5,18.75,5-8 ,5,8,6.5
+data engineer,Manpowergroup Services India,4-8 Yrs,Chennai,17-30 Lacs PA,17-30 ,17.0,30.0,23.5,4-8 ,4,8,6.0
+data engineer,Sightspectrum,5-10 Yrs,Bangalore,15-22.5 Lacs PA,15-22.5 ,15.0,22.5,18.75,5-10 ,5,10,7.5
+data engineer,Neudesic Technologies,5-10 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,5-10 ,5,10,7.5
+data engineer,Contactx Resource Management,4-9 Yrs,Bangalore,16-30 Lacs PA,16-30 ,16.0,30.0,23.0,4-9 ,4,9,6.5
+na,Candid Recruitments,8-12 Yrs,Bangalore,19-30 Lacs PA,19-30 ,19.0,30.0,24.5,8-12 ,8,12,10.0
+data engineer,Mresult Services,7-12 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,7-12 ,7,12,9.5
+data engineer,Aliqan Services,2-3 Yrs,Bangalore,50000-1 Lacs PA,0.5-1 ,0.5,1.0,0.75,2-3 ,2,3,2.5
+data engineer,Talent Corner HR Services Pvt Ltd,5-8 Yrs,Bangalore,15-18 Lacs PA,15-18 ,15.0,18.0,16.5,5-8 ,5,8,6.5
+data engineer,Kukulkan Management Services,4-8 Yrs,Bangalore,16-18 Lacs PA,16-18 ,16.0,18.0,17.0,4-8 ,4,8,6.0
+data engineer,Altvu,5-10 Yrs,Bangalore,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,5-10 ,5,10,7.5
+python developer,Excelvana,5-10 Yrs,Maharashtra,8-15 Lacs PA,8-15 ,8.0,15.0,11.5,5-10 ,5,10,7.5
+data engineer,Imaginators Try Going Beyond,5-10 Yrs,Bangalore,9-17 Lacs PA,9-17 ,9.0,17.0,13.0,5-10 ,5,10,7.5
+data engineer,fifthnote,3-5 Yrs,remote,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,3-5 ,3,5,4.0
+data engineer,Erastar,5-9 Yrs,Uttar pradesh,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-9 ,5,9,7.0
+data engineer,Manpowergroup Services India,4-9 Yrs,Chennai,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,4-9 ,4,9,6.5
+Data Scientist,Support Star Corporate,10-15 Yrs,Pune,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,10-15 ,10,15,12.5
+data engineer,Parentpay Groups,7-10 Yrs,Maharashtra,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,7-10 ,7,10,8.5
+na,Boyd Thermal Systems India,7-12 Yrs,Chennai,7-15 Lacs PA,7-15 ,7.0,15.0,11.0,7-12 ,7,12,9.5
+ML Engineer,Jet2 Travel Technologies,3-7 Yrs,Pune,12-20 Lacs PA,12-20 ,12.0,20.0,16.0,3-7 ,3,7,5.0
+Data Analyst,Spectrum Talent Management,1-3 Yrs,Uttar pradesh,1.25-3.5 Lacs PA,1.25-3.5 ,1.25,3.5,2.375,1-3 ,1,3,2.0
+Data Analyst,dotSolved India Pvt Ltd,7-12 Yrs,remote,6-13 Lacs PA,6-13 ,6.0,13.0,9.5,7-12 ,7,12,9.5
+Data Analyst,Perficient,3-5 Yrs,remote,8-17 Lacs PA,8-17 ,8.0,17.0,12.5,3-5 ,3,5,4.0
+Data Analyst,Newpage Hr Solutions Llp,5-10 Yrs,Gurugram,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,5-10 ,5,10,7.5
+Data Analyst,Career Kendra,1-2 Yrs,Gurugram,4.25-4.75 Lacs PA,4.25-4.75 ,4.25,4.75,4.5,1-2 ,1,2,1.5
+Data Analyst,Menko Online Trading,2-5 Yrs,Misc,2.75-5.5 Lacs PA,2.75-5.5 ,2.75,5.5,4.125,2-5 ,2,5,3.5
+Data Analyst,Excel Hr Services,2-7 Yrs,Kolkata,9-11 Lacs PA,9-11 ,9.0,11.0,10.0,2-7 ,2,7,4.5
+Data Analyst,Talent Sketchers,3-6 Yrs,Maharashtra,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,3-6 ,3,6,4.5
+Data Analyst,Steerabidance,6-11 Yrs,Gurugram,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,6-11 ,6,11,8.5
+Data Analyst,Atrac Engineering,3-8 Yrs,Maharashtra,2.5-3.5 Lacs PA,2.5-3.5 ,2.5,3.5,3.0,3-8 ,3,8,5.5
+Data Analyst,Independent Consultants,10-13 Yrs,remote,14-16 Lacs PA,14-16 ,14.0,16.0,15.0,10-13 ,10,13,11.5
+Data Analyst,H R Organo Chem (HROC),4-9 Yrs,Maharashtra,3-6 Lacs PA,3-6 ,3.0,6.0,4.5,4-9 ,4,9,6.5
+Data Analyst,Elite Wealth Advisors,3-5 Yrs,Gurugram,2-7 Lacs PA,2-7 ,2.0,7.0,4.5,3-5 ,3,5,4.0
+Data Analyst,Stratawiz Technologies Ltd,1-2 Yrs,Pune,2-3 Lacs PA,2-3 ,2.0,3.0,2.5,1-2 ,1,2,1.5
+Data Analyst,Jabsons Foods,1-3 Yrs,Misc,2-3 Lacs PA,2-3 ,2.0,3.0,2.5,1-3 ,1,3,2.0
+Data Analyst,Search Advisers Services Guj,2-4 Yrs,Gurugram,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,2-4 ,2,4,3.0
+Data Scientist,Value Innovation,10-20 Yrs,Bangalore,35 Lacs PA,35 ,35.0,35.0,35.0,10-20 ,10,20,15.0
+Data Scientist,Coforge,4-9 Yrs,Bangalore,15-30 Lacs PA (Including Variable: 7.5%),15-30  ,15.0,30.0,22.5,4-9 ,4,9,6.5
+Data Scientist,Tata Consultancy Services (TCS),3-8 Yrs,Maharashtra,3-7 Lacs PA,3-7 ,3.0,7.0,5.0,3-8 ,3,8,5.5
+data engineer,Bean Hr Consulting,9-13 Yrs,Maharashtra,25-35 Lacs PA,25-35 ,25.0,35.0,30.0,9-13 ,9,13,11.0
+data engineer,The Offer Story,8-13 Yrs,Pune,40-50 Lacs PA,40-50 ,40.0,50.0,45.0,8-13 ,8,13,10.5
+data engineer,Apidel Technologies,8-10 Yrs,Gurugram,11-16 Lacs PA,11-16 ,11.0,16.0,13.5,8-10 ,8,10,9.0
+data engineer,Link Talent Management Services,8-13 Yrs,Hybrid,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,8-13 ,8,13,10.5
+data engineer,Boyen Haddin,4-8 Yrs,remote,50000-2 Lacs PA,0.5-2 ,0.5,2.0,1.25,4-8 ,4,8,6.0
+data engineer,Evoke HR,3-8 Yrs,Bangalore,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,3-8 ,3,8,5.5
+data engineer,Mascot E-services,3-6 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,3-6 ,3,6,4.5
+data engineer,Tekskills India,4-9 Yrs,Bangalore,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,4-9 ,4,9,6.5
+data engineer,UprightHC Solutions,4-8 Yrs,Bangalore,8-12 Lacs PA,8-12 ,8.0,12.0,10.0,4-8 ,4,8,6.0
+data engineer,Krazy Mantra,5-9 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,5-9 ,5,9,7.0
+Data Scientist,Hissar IT,3-7 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,3-7 ,3,7,5.0
+na,Brainsearch Consulting,4-7 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,4-7 ,4,7,5.5
+data engineer,Adecco Group,4-8 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-8 ,4,8,6.0
+data engineer,Vanshria Holdings And Ventures,5-10 Yrs,Bangalore,27.5-32.5 Lacs PA,27.5-32.5 ,27.5,32.5,30.0,5-10 ,5,10,7.5
+data engineer,Infinityquest It Services,4-9 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,4-9 ,4,9,6.5
+Data Scientist,Industrial Personnel Network,3-7 Yrs,Gurugram,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,3-7 ,3,7,5.0
+data engineer,Krazy Mantra,4-9 Yrs,Bangalore,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,4-9 ,4,9,6.5
+data engineer,Krazy Mantra,5-10 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-10 ,5,10,7.5
+Data Scientist,We Remote Devs Pvt Ltd.,5-8 Yrs,Gurugram,30-40 Lacs PA,30-40 ,30.0,40.0,35.0,5-8 ,5,8,6.5
+data engineer,Kiash Solution Llp,3-8 Yrs,Bangalore,20-27.5 Lacs PA,20-27.5 ,20.0,27.5,23.75,3-8 ,3,8,5.5
+data engineer,NR Consulting,5-8 Yrs,Bangalore,9-12 Lacs PA,9-12 ,9.0,12.0,10.5,5-8 ,5,8,6.5
+data engineer,Thakral One,4-9 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-9 ,4,9,6.5
+data engineer,Happiest Minds Technologies,6-11 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,6-11 ,6,11,8.5
+data engineer,Gpmbs Advisory Services,6-8 Yrs,remote,1.5-1.75 Lacs PA,1.5-1.75 ,1.5,1.75,1.625,6-8 ,6,8,7.0
+data engineer,Beesolver Technology,2-6 Yrs,chandigarh,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,2-6 ,2,6,4.0
+data engineer,fifthnote,3-5 Yrs,remote,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,3-5 ,3,5,4.0
+data engineer,Argus India Price Reporting Services,1-5 Yrs,Maharashtra,2-7 Lacs PA,2-7 ,2.0,7.0,4.5,1-5 ,1,5,3.0
+data engineer,Suneratech,6-9 Yrs,hyderabad,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,6-9 ,6,9,7.5
+data engineer,Samridhi,10-15 Yrs,Kolkata,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,10-15 ,10,15,12.5
+data engineer,Samridhi,10-15 Yrs,Kolkata,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,10-15 ,10,15,12.5
+data engineer,Softobiz,5-10 Yrs,hyderabad,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,5-10 ,5,10,7.5
+data engineer,Vacancieshub Hrm Solutions,4-9 Yrs,Kerala,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,4-9 ,4,9,6.5
+data engineer,Arminus Software,5-8 Yrs,Hybrid,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-8 ,5,8,6.5
+data engineer,NRS Software Global,3-5 Yrs,remote,8.5-15 Lacs PA,8.5-15 ,8.5,15.0,11.75,3-5 ,3,5,4.0
+data engineer,Resourcemojo,3-7 Yrs,remote,12-15 Lacs PA,12-15 ,12.0,15.0,13.5,3-7 ,3,7,5.0
+Data Analyst,ATS,3-8 Yrs,remote,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,3-8 ,3,8,5.5
+Data Analyst,Husk Power Systems,4-6 Yrs,Misc,5-6 Lacs PA,5-6 ,5.0,6.0,5.5,4-6 ,4,6,5.0
+Data Analyst,D2K Technologies,1-3 Yrs,Maharashtra,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,1-3 ,1,3,2.0
+Data Analyst,Genesis Hr Services,3-8 Yrs,Maharashtra,6-12 Lacs PA,6-12 ,6.0,12.0,9.0,3-8 ,3,8,5.5
+Data Analyst,Keyur Kitchenware,3-7 Yrs,Misc,3-4 Lacs PA,3-4 ,3.0,4.0,3.5,3-7 ,3,7,5.0
+Data Analyst,GSA Industries Patiala,1-3 Yrs,Misc,2-3 Lacs PA,2-3 ,2.0,3.0,2.5,1-3 ,1,3,2.0
+Data Analyst,Skilfil Consultants,5-10 Yrs,Hybrid,12-20 Lacs PA,12-20 ,12.0,20.0,16.0,5-10 ,5,10,7.5
+Data Analyst,Bloom Talents,1-6 Yrs,Gurugram,3-5 Lacs PA,3-5 ,3.0,5.0,4.0,1-6 ,1,6,3.5
+Data Analyst,Venus Consultancy,2-5 Yrs,Gujrat,4-8 Lacs PA,4-8 ,4.0,8.0,6.0,2-5 ,2,5,3.5
+ML Engineer,Tech Mahindra,6-10 Yrs,Pune,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,6-10 ,6,10,8.0
+Data Scientist,HCLTech,5-10 Yrs,hyderabad,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-10 ,5,10,7.5
+Lead,Hexaware Technologies,9-12 Yrs,Hybrid,18-30 Lacs PA,18-30 ,18.0,30.0,24.0,9-12 ,9,12,10.5
+data engineer,Link Talent Management Services,12-16 Yrs,Pune,25-40 Lacs PA,25-40 ,25.0,40.0,32.5,12-16 ,12,16,14.0
+data engineer,Boyen Haddin,8-12 Yrs,remote,50000-2 Lacs PA,0.5-2 ,0.5,2.0,1.25,8-12 ,8,12,10.0
+data engineer,Sriyam Consultants,3-8 Yrs,Bangalore,9-19 Lacs PA,9-19 ,9.0,19.0,14.0,3-8 ,3,8,5.5
+data engineer,Future Focus Infotech,4-9 Yrs,Maharashtra,5-14 Lacs PA,5-14 ,5.0,14.0,9.5,4-9 ,4,9,6.5
+data engineer,Kiash Solution Llp,2-7 Yrs,Bangalore,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,2-7 ,2,7,4.5
+data engineer,Seven Consultancy,15-20 Yrs,remote,45-60 Lacs PA,45-60 ,45.0,60.0,52.5,15-20 ,15,20,17.5
+na,Shreyan It Solutions,2-6 Yrs,Bangalore,3-6 Lacs PA,3-6 ,3.0,6.0,4.5,2-6 ,2,6,4.0
+data engineer,Altvu,5-10 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-10 ,5,10,7.5
+data engineer,Altvu,5-10 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-10 ,5,10,7.5
+data engineer,Newpage Hr Solutions Llp,5-10 Yrs,Gurugram,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-10 ,5,10,7.5
+data engineer,Stap Management Consultants,3-8 Yrs,Gurugram,8-12 Lacs PA,8-12 ,8.0,12.0,10.0,3-8 ,3,8,5.5
+data engineer,mphrX,2-5 Yrs,Gurugram,7-14 Lacs PA,7-14 ,7.0,14.0,10.5,2-5 ,2,5,3.5
+data engineer,Manek Consulting,1-6 Yrs,Maharashtra,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,1-6 ,1,6,3.5
+data engineer,Fifthgen Tech Solution,5-9 Yrs,Maharashtra,3.25-8 Lacs PA,3.25-8 ,3.25,8.0,5.625,5-9 ,5,9,7.0
+data engineer,Premium,1-4 Yrs,Maharashtra,6-15 Lacs PA,6-15 ,6.0,15.0,10.5,1-4 ,1,4,2.5
+data engineer,Staffbee Solutions Inc,6-11 Yrs,remote,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,6-11 ,6,11,8.5
+data engineer,Sriyam Consultants,5-9 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-9 ,5,9,7.0
+Data Scientist,Imcs Tech (p) Ltd,5-8 Yrs,Chennai,10-16 Lacs PA,10-16 ,10.0,16.0,13.0,5-8 ,5,8,6.5
+data engineer,Niveus Solution,3-7 Yrs,Hybrid,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,3-7 ,3,7,5.0
+data engineer,Neyvin Technologies (opc),3-8 Yrs,hyderabad,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,3-8 ,3,8,5.5
+data engineer,Freelancer Murali Mohan Kanupuri,1-5 Yrs,hyderabad,5-8 Lacs PA,5-8 ,5.0,8.0,6.5,1-5 ,1,5,3.0
+na,Kiash Solution Llp,4-9 Yrs,remote,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,4-9 ,4,9,6.5
+data engineer,Manpowergroup Services India,4-6 Yrs,remote,20-22.5 Lacs PA,20-22.5 ,20.0,22.5,21.25,4-6 ,4,6,5.0
+data engineer,Artech,3-8 Yrs,Hybrid,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,3-8 ,3,8,5.5
+data engineer,Multi Recruit,2-4 Yrs,Maharashtra,10-16 Lacs PA,10-16 ,10.0,16.0,13.0,2-4 ,2,4,3.0
+data engineer,Vaco Enterprise Llp,3-7 Yrs,hyderabad,4-7 Lacs PA,4-7 ,4.0,7.0,5.5,3-7 ,3,7,5.0
+data engineer,Callesto,5-7 Yrs,remote,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-7 ,5,7,6.0
+Data Analyst,Aspyra Hr Services,3-7 Yrs,Gurugram,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,3-7 ,3,7,5.0
+data engineer,GUVI Geek Network Pvt Ltd,1-3 Yrs,Hybrid,4-6 Lacs PA,4-6 ,4.0,6.0,5.0,1-3 ,1,3,2.0
+data engineer,ACI Global Business Services,5-10 Yrs,remote,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,5-10 ,5,10,7.5
+ML Engineer,RK Hr Management,10-15 Yrs,Gujrat,30-35 Lacs PA,30-35 ,30.0,35.0,32.5,10-15 ,10,15,12.5
+Data Analyst,NRV Designx,1-5 Yrs,Gurugram,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,1-5 ,1,5,3.0
+data engineer,Freelancer Murali Mohan Kanupuri,2-5 Yrs,hyderabad,3.5-5 Lacs PA,3.5-5 ,3.5,5.0,4.25,2-5 ,2,5,3.5
+na,Evoke HR,7-10 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,7-10 ,7,10,8.5
+na,Evoke HR,6-11 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,6-11 ,6,11,8.5
+data engineer,DataBuzz Ltd,12-22 Yrs,hyderabad,32.5-47.5 Lacs PA,32.5-47.5 ,32.5,47.5,40.0,12-22 ,12,22,17.0
+data engineer,Crescendo Global Leadership Hiring India,7-12 Yrs,Gurugram,15-27.5 Lacs PA,15-27.5 ,15.0,27.5,21.25,7-12 ,7,12,9.5
+data engineer,DYR Consulting,6-11 Yrs,Maharashtra,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,6-11 ,6,11,8.5
+Data Scientist,Bharathire.com,6-11 Yrs,Chennai,30-45 Lacs PA,30-45 ,30.0,45.0,37.5,6-11 ,6,11,8.5
+data engineer,Excelra,5-10 Yrs,remote,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-10 ,5,10,7.5
+data engineer,Bloomerise Placements (opc),4-9 Yrs,Gurugram,10-16 Lacs PA,10-16 ,10.0,16.0,13.0,4-9 ,4,9,6.5
+data engineer,Krazy Mantra,7-10 Yrs,Misc,10-17 Lacs PA,10-17 ,10.0,17.0,13.5,7-10 ,7,10,8.5
+data engineer,Bwise Solutions,3-7 Yrs,remote,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,3-7 ,3,7,5.0
+data engineer,Futran Tech Solutions,5-10 Yrs,Pune,8.5-18.5 Lacs PA,8.5-18.5 ,8.5,18.5,13.5,5-10 ,5,10,7.5
+data engineer,Sysvine Technologies,2-7 Yrs,Hybrid,7-15 Lacs PA,7-15 ,7.0,15.0,11.0,2-7 ,2,7,4.5
+data engineer,Seventh Contact Hiring Solutions,4-7 Yrs,Maharashtra,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-7 ,4,7,5.5
+data engineer,VRS Advisory Services,2-7 Yrs,Kerala,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,2-7 ,2,7,4.5
+data engineer,NRS Software Global,9-11 Yrs,remote,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,9-11 ,9,11,10.0
+ML Engineer,CAMBRIDGE TECHNOLOGY ENTERPRISES (CTE),10-15 Yrs,hyderabad,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,10-15 ,10,15,12.5
+Data Scientist,Xebia It Architects,12-18 Yrs,Bangalore,25-40 Lacs PA,25-40 ,25.0,40.0,32.5,12-18 ,12,18,15.0
+Data Scientist,Inventech Info Solutions,2-6 Yrs,Bangalore,6.5-16.5 Lacs PA,6.5-16.5 ,6.5,16.5,11.5,2-6 ,2,6,4.0
+Data Scientist,Maven Wave Partners,10-19 Yrs,Bangalore,25-40 Lacs PA,25-40 ,25.0,40.0,32.5,10-19 ,10,19,14.5
+Data Scientist,Silverlink Technologies,4-9 Yrs,Bangalore,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,4-9 ,4,9,6.5
+na,Krazy Mantra,6-10 Yrs,Bangalore,9-19 Lacs PA,9-19 ,9.0,19.0,14.0,6-10 ,6,10,8.0
+Data Scientist,Vanshria Holdings And Ventures,15-22 Yrs,Bangalore,40-45 Lacs PA,40-45 ,40.0,45.0,42.5,15-22 ,15,22,18.5
+na,NR Consulting,4-6 Yrs,Bangalore,8-10 Lacs PA,8-10 ,8.0,10.0,9.0,4-6 ,4,6,5.0
+Data Analyst,Creative Hands HR,8-12 Yrs,Bangalore,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,8-12 ,8,12,10.0
+data engineer,Lance Labs,6-11 Yrs,Uttar pradesh,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,6-11 ,6,11,8.5
+data engineer,Asky Services Llp,3-8 Yrs,Maharashtra,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,3-8 ,3,8,5.5
+data engineer,OnProcess,5-10 Yrs,remote,5.5-15 Lacs PA,5.5-15 ,5.5,15.0,10.25,5-10 ,5,10,7.5
+data engineer,Esoftlabs,5-10 Yrs,hyderabad,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,5-10 ,5,10,7.5
+data engineer,Mijas Consultants,8-13 Yrs,Gurugram,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,8-13 ,8,13,10.5
+data engineer,IDW Team,5-5 Yrs,remote,13-15 Lacs PA,13-15 ,13.0,15.0,14.0,5-5 ,5,5,5.0
+data engineer,Krazy Mantra,10-18 Yrs,remote,40-55 Lacs PA,40-55 ,40.0,55.0,47.5,10-18 ,10,18,14.0
+data engineer,Eclinicalworks,1-5 Yrs,Gujrat,4.5-8 Lacs PA,4.5-8 ,4.5,8.0,6.25,1-5 ,1,5,3.0
+data engineer,Multi Recruit,2-5 Yrs,hyderabad,8-10 Lacs PA,8-10 ,8.0,10.0,9.0,2-5 ,2,5,3.5
+data engineer,Wtw Global Delivery And Solutions,3-8 Yrs,Maharashtra,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,3-8 ,3,8,5.5
+data engineer,Motivity Labs,5-10 Yrs,hyderabad,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,5-10 ,5,10,7.5
+data engineer,Client of Techq Learning Solutions,3-6 Yrs,hyderabad,22.5-25 Lacs PA,22.5-25 ,22.5,25.0,23.75,3-6 ,3,6,4.5
+na,300 Plus Consultant,8-11 Yrs,Gurugram,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,8-11 ,8,11,9.5
+ML Engineer,Fargowiz Software Services Private Limited,5-10 Yrs,remote,20-27.5 Lacs PA,20-27.5 ,20.0,27.5,23.75,5-10 ,5,10,7.5
+na,Wize Careers Consultants,4-9 Yrs,Bangalore,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,4-9 ,4,9,6.5
+ML Engineer,Kanta Hr Executive,2-5 Yrs,Bangalore,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,2-5 ,2,5,3.5
+python developer,DYR Consulting,3-8 Yrs,Bangalore,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,3-8 ,3,8,5.5
+Data Scientist,Altvu,5-10 Yrs,Bangalore,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,5-10 ,5,10,7.5
+ML Engineer,Uberlife Consulting,5-10 Yrs,Maharashtra,25-27.5 Lacs PA,25-27.5 ,25.0,27.5,26.25,5-10 ,5,10,7.5
+data engineer,Vremember Technologies,5-7 Yrs,Maharashtra,8-16 Lacs PA,8-16 ,8.0,16.0,12.0,5-7 ,5,7,6.0
+data engineer,Micropoint Computers,3-4 Yrs,Maharashtra,3.5-4 Lacs PA,3.5-4 ,3.5,4.0,3.75,3-4 ,3,4,3.5
+data engineer,Qty Staffing,10-17 Yrs,Gurugram,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,10-17 ,10,17,13.5
+Data Scientist,DataBuzz Ltd,5-10 Yrs,hyderabad,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,5-10 ,5,10,7.5
+Data Analyst,Mango Financial Advisors Llp,0-2 Yrs,Bangalore,10-14 Lacs PA,10-14 ,10.0,14.0,12.0,0-2 ,0,2,1.0
+na,Holborn Wells India,2-7 Yrs,Gurugram,5.5-15.5 Lacs PA,5.5-15.5 ,5.5,15.5,10.5,2-7 ,2,7,4.5
+na,Pdrc Corporation,1-3 Yrs,remote,1.5-3.25 Lacs PA,1.5-3.25 ,1.5,3.25,2.375,1-3 ,1,3,2.0
+ML Engineer,Aedifico Skill Innovation,2-7 Yrs,Uttar pradesh,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,2-7 ,2,7,4.5
+na,Independent Consultants,10-20 Yrs,remote,14-16 Lacs PA,14-16 ,14.0,16.0,15.0,10-20 ,10,20,15.0
+Lead,Sravathi Advance Process Technologies,5-10 Yrs,Bangalore,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,5-10 ,5,10,7.5
+Data Scientist,Campus Marg,5-10 Yrs,Maharashtra,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,5-10 ,5,10,7.5
+Data Scientist,Latinum Hr Solutions,4-9 Yrs,Pune,11-19 Lacs PA,11-19 ,11.0,19.0,15.0,4-9 ,4,9,6.5
+Data Scientist,Latinum Hr Solutions,5-10 Yrs,Pune,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,5-10 ,5,10,7.5
+Data Scientist,Latinum Hr Solutions,4-9 Yrs,Pune,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-9 ,4,9,6.5
+Data Analyst,Werize,0-2 Yrs,Bangalore,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,0-2 ,0,2,1.0
+na,Amor Management Consultants,2-7 Yrs,Bangalore,15-22.5 Lacs PA,15-22.5 ,15.0,22.5,18.75,2-7 ,2,7,4.5
+Data Analyst,Wipro,5-7 Yrs,Bangalore,8-14 Lacs PA,8-14 ,8.0,14.0,11.0,5-7 ,5,7,6.0
+Data Analyst,Tata Consultancy Services (TCS),3-8 Yrs,Bangalore,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,3-8 ,3,8,5.5
+Data Analyst,Tata Consultancy Services (TCS),3-8 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,3-8 ,3,8,5.5
+Data Analyst,Aon,6-9 Yrs,Bangalore,25-27.5 Lacs PA,25-27.5 ,25.0,27.5,26.25,6-9 ,6,9,7.5
+Data Analyst,Kabalikrut Group,0-3 Yrs,chandigarh,2-3 Lacs PA,2-3 ,2.0,3.0,2.5,0-3 ,0,3,1.5
+Data Analyst,EY,1-4 Yrs,Bangalore,2-5 Lacs PA,2-5 ,2.0,5.0,3.5,1-4 ,1,4,2.5
+Data Analyst,Finlander Capital Consulatancy (p) Ltd,0-2 Yrs,Uttar pradesh,2-4 Lacs PA,2-4 ,2.0,4.0,3.0,0-2 ,0,2,1.0
+Data Analyst,Alliance Web Solution,0-1 Yrs,Uttar pradesh,1.25-2.25 Lacs PA,1.25-2.25 ,1.25,2.25,1.75,0-1 ,0,1,0.5
+Data Analyst,Shri Ramswaroop Digital Technology Pvt Ltd,0-3 Yrs,Uttar pradesh,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,0-3 ,0,3,1.5
+Data Analyst,Unified Credit Solutions,0-1 Yrs,Gurugram,3.5-3.75 Lacs PA,3.5-3.75 ,3.5,3.75,3.625,0-1 ,0,1,0.5
+Data Analyst,Ehrs Hercolleagues,0-1 Yrs,Gurugram,1.25-3 Lacs PA,1.25-3 ,1.25,3.0,2.125,0-1 ,0,1,0.5
+Lead,Hexaware Technologies,5-10 Yrs,Bangalore,25-27.5 Lacs PA,25-27.5 ,25.0,27.5,26.25,5-10 ,5,10,7.5
+na,Pharma Placements Inc.,2-7 Yrs,Gurugram,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,2-7 ,2,7,4.5
+ML Engineer,Tata Consultancy Services (TCS),3-8 Yrs,Bangalore,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,3-8 ,3,8,5.5
+Data Analyst,National Institute for Smart Government (NISG),6-10 Yrs,Gurugram,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,6-10 ,6,10,8.0
+Data Analyst,Kone,3-8 Yrs,Chennai,7-9 Lacs PA,7-9 ,7.0,9.0,8.0,3-8 ,3,8,5.5
+Lead,Hilabs,5-10 Yrs,Bangalore,30-45 Lacs PA,30-45 ,30.0,45.0,37.5,5-10 ,5,10,7.5
+na,CIEL HR,4-7 Yrs,hyderabad,4.5-7 Lacs PA,4.5-7 ,4.5,7.0,5.75,4-7 ,4,7,5.5
+ML Engineer,Nexplace Info,4-9 Yrs,Bangalore,20-27.5 Lacs PA,20-27.5 ,20.0,27.5,23.75,4-9 ,4,9,6.5
+manager,Tiger Analytics,10-14 Yrs,Bangalore,25-40 Lacs PA,25-40 ,25.0,40.0,32.5,10-14 ,10,14,12.0
+Data Analyst,Talent500,2-3 Yrs,remote,8-15 Lacs PA,8-15 ,8.0,15.0,11.5,2-3 ,2,3,2.5
+Data Analyst,Starinco,3-6 Yrs,Bangalore,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,3-6 ,3,6,4.5
+Data Analyst,Matrix Business Services,2-4 Yrs,Bangalore,6-8 Lacs PA,6-8 ,6.0,8.0,7.0,2-4 ,2,4,3.0
+Data Analyst,Neudesic Technologies,7-12 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,7-12 ,7,12,9.5
+Data Analyst,Dainik Bhaskar Group,2-7 Yrs,chandigarh,3-4.25 Lacs PA,3-4.25 ,3.0,4.25,3.625,2-7 ,2,7,4.5
+Data Analyst,Xyxx,0-3 Yrs,Maharashtra,5-12 Lacs PA,5-12 ,5.0,12.0,8.5,0-3 ,0,3,1.5
+Data Analyst,Devship,0-1 Yrs,Hybrid,2.5-5 Lacs PA,2.5-5 ,2.5,5.0,3.75,0-1 ,0,1,0.5
+Data Analyst,Oxane Partners India Pvt. Ltd.,0-4 Yrs,Gurugram,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,0-4 ,0,4,2.0
+Data Analyst,Perfect People Search,4-8 Yrs,Hybrid,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,4-8 ,4,8,6.0
+Data Analyst,Sipra Labs,2-5 Yrs,hyderabad,2-5.5 Lacs PA,2-5.5 ,2.0,5.5,3.75,2-5 ,2,5,3.5
+Data Analyst,Aon,5-10 Yrs,Gurugram,7-13 Lacs PA,7-13 ,7.0,13.0,10.0,5-10 ,5,10,7.5
+Data Analyst,Suryoday Small Finance Bank,0-2 Yrs,Maharashtra,2-3 Lacs PA,2-3 ,2.0,3.0,2.5,0-2 ,0,2,1.0
+na,Revive Knowledge,5-10 Yrs,Gurugram,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-10 ,5,10,7.5
+na,Tech Mahindra,4-6 Yrs,hyderabad,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-6 ,4,6,5.0
+ML Engineer,Impetus Technologies,3-6 Yrs,Bangalore,12-18 Lacs PA,12-18 ,12.0,18.0,15.0,3-6 ,3,6,4.5
+ML Engineer,Team Plus Staffing Solution,5-10 Yrs,Bangalore,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,5-10 ,5,10,7.5
+Data Analyst,Prime Placement And Manpower Services,3-8 Yrs,Gujrat,3-4.25 Lacs PA,3-4.25 ,3.0,4.25,3.625,3-8 ,3,8,5.5
+Data Analyst,Factspan Analytics,4-8 Yrs,Bangalore,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,4-8 ,4,8,6.0
+Lead,Contactpoint 360,5-8 Yrs,Bangalore,6-12 Lacs PA,6-12 ,6.0,12.0,9.0,5-8 ,5,8,6.5
+Data Analyst,Brainsearch Consulting,3-8 Yrs,remote,7-10 Lacs PA,7-10 ,7.0,10.0,8.5,3-8 ,3,8,5.5
+Data Analyst,ThoughtFocus,3-8 Yrs,Bangalore,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,3-8 ,3,8,5.5
+Data Analyst,Venpa Staffing,5-10 Yrs,Bangalore,5-12 Lacs PA,5-12 ,5.0,12.0,8.5,5-10 ,5,10,7.5
+Data Analyst,Kapture CRM,2-7 Yrs,Bangalore,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,2-7 ,2,7,4.5
+Data Analyst,Writer Business Services,4-8 Yrs,Maharashtra,8-12 Lacs PA,8-12 ,8.0,12.0,10.0,4-8 ,4,8,6.0
+Data Analyst,Tech Mahindra,6-10 Yrs,hyderabad,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,6-10 ,6,10,8.0
+Data Analyst,Dainik Bhaskar Group,3-8 Yrs,Misc,7-15 Lacs PA,7-15 ,7.0,15.0,11.0,3-8 ,3,8,5.5
+Data Analyst,Cholamandalam Investment And Finance Company Limit,3-7 Yrs,Chennai,8-10 Lacs PA,8-10 ,8.0,10.0,9.0,3-7 ,3,7,5.0
+Data Analyst,Tata Consultancy Services (TCS),5-10 Yrs,Maharashtra,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,5-10 ,5,10,7.5
+Data Analyst,G4S,10-15 Yrs,Misc,50000 PA,0.5 ,0.5,0.5,0.5,10-15 ,10,15,12.5
+Data Analyst,Alliance Web Solution Pvt. Ltd.,0-1 Yrs,Uttar pradesh,1.25-2.25 Lacs PA,1.25-2.25 ,1.25,2.25,1.75,0-1 ,0,1,0.5
+Data Analyst,Satven,3-8 Yrs,Chennai,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,3-8 ,3,8,5.5
+Data Analyst,Smartworks,1-5 Yrs,Gurugram,2-4 Lacs PA,2-4 ,2.0,4.0,3.0,1-5 ,1,5,3.0
+Data Analyst,Vipsa Talent Solutions,0-0 Yrs,Pune,1.5-3 Lacs PA,1.5-3 ,1.5,3.0,2.25,0-0 ,0,0,0.0
+Data Scientist,Hexaware Technologies,13-22 Yrs,Bangalore,27.5-37.5 Lacs PA,27.5-37.5 ,27.5,37.5,32.5,13-22 ,13,22,17.5
+python developer,Tata Elxsi,3-6 Yrs,Bangalore,5-9 Lacs PA,5-9 ,5.0,9.0,7.0,3-6 ,3,6,4.5
+Data Analyst,izmocars,3-7 Yrs,Bangalore,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,3-7 ,3,7,5.0
+Lead,Prodapt Solutions,12-18 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,12-18 ,12,18,15.0
+Data Analyst,Softobiz,7-12 Yrs,hyderabad,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,7-12 ,7,12,9.5
+Data Analyst,Onpoint Corporate Services,5-10 Yrs,Misc,5-11 Lacs PA,5-11 ,5.0,11.0,8.0,5-10 ,5,10,7.5
+Data Analyst,Saksoft,5-7 Yrs,Bangalore,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,5-7 ,5,7,6.0
+Data Analyst,WIFT Cap Solutions,5-9 Yrs,Bangalore,60000-1 Lacs PA,0.6-1 ,0.6,1.0,0.8,5-9 ,5,9,7.0
+Data Analyst,Craft Silicon,4-8 Yrs,Bangalore,3.25-8 Lacs PA,3.25-8 ,3.25,8.0,5.625,4-8 ,4,8,6.0
+Data Analyst,Olive Green Consulting,3-7 Yrs,Bangalore,6-9 Lacs PA,6-9 ,6.0,9.0,7.5,3-7 ,3,7,5.0
+Data Analyst,Shell Infotech,3-5 Yrs,Pune,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,3-5 ,3,5,4.0
+Data Analyst,Manpowergroup Services India,1-5 Yrs,hyderabad,5-10 Lacs PA,5-10 ,5.0,10.0,7.5,1-5 ,1,5,3.0
+python developer,Nexplace Info,5-10 Yrs,Bangalore,17-27.5 Lacs PA,17-27.5 ,17.0,27.5,22.25,5-10 ,5,10,7.5
+python developer,Teamlease Digital,6-9 Yrs,Bangalore,70000-3 Lacs PA,0.7-3 ,0.7,3.0,1.85,6-9 ,6,9,7.5
+na,Tata Consultancy Services (TCS),6-11 Yrs,Bangalore,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,6-11 ,6,11,8.5
+python developer,Careernet Technologies,3-8 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,3-8 ,3,8,5.5
+python developer,Careernet Technologies,4-9 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,4-9 ,4,9,6.5
+Lead,Arocom IT Solutions Pvt Ltd,5-10 Yrs,remote,30-40 Lacs PA,30-40 ,30.0,40.0,35.0,5-10 ,5,10,7.5
+Lead,izmocars,7-10 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,7-10 ,7,10,8.5
+na,Emids,5-10 Yrs,Bangalore,25-32.5 Lacs PA,25-32.5 ,25.0,32.5,28.75,5-10 ,5,10,7.5
+ML Engineer,Coforge,5-10 Yrs,Bangalore,15-30 Lacs PA (Including Variable: 7.5%),15-30  ,15.0,30.0,22.5,5-10 ,5,10,7.5
+ML Engineer,Whizdm Innovations,6-10 Yrs,Bangalore,35-55 Lacs PA,35-55 ,35.0,55.0,45.0,6-10 ,6,10,8.0
+ML Engineer,CNH Industrial,5-8 Yrs,Bangalore,17-30 Lacs PA,17-30 ,17.0,30.0,23.5,5-8 ,5,8,6.5
+ML Engineer,Newgen,4-9 Yrs,Uttar pradesh,10-14 Lacs PA,10-14 ,10.0,14.0,12.0,4-9 ,4,9,6.5
+Data Scientist,Growel Softech,5-5 Yrs,Maharashtra,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-5 ,5,5,5.0
+Lead,GSN Consulting,4-9 Yrs,Bangalore,18-25 Lacs PA,18-25 ,18.0,25.0,21.5,4-9 ,4,9,6.5
+Data Analyst,Coforge,10-15 Yrs,Bangalore,9-19 Lacs PA,9-19 ,9.0,19.0,14.0,10-15 ,10,15,12.5
+Data Analyst,Krazy Mantra,5-10 Yrs,Bangalore,20-22.5 Lacs PA,20-22.5 ,20.0,22.5,21.25,5-10 ,5,10,7.5
+Data Analyst,Helius Technologies,5-10 Yrs,Bangalore,13-19 Lacs PA,13-19 ,13.0,19.0,16.0,5-10 ,5,10,7.5
+Data Analyst,ERM Placement Services (p) Ltd.,3-7 Yrs,Bangalore,11-18 Lacs PA,11-18 ,11.0,18.0,14.5,3-7 ,3,7,5.0
+Data Analyst,Innominds Software,8-13 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,8-13 ,8,13,10.5
+Data Analyst,Krazy Mantra,5-8 Yrs,Bangalore,10-16 Lacs PA,10-16 ,10.0,16.0,13.0,5-8 ,5,8,6.5
+Data Analyst,Vuca Consulting,2-5 Yrs,Bangalore,5-8 Lacs PA,5-8 ,5.0,8.0,6.5,2-5 ,2,5,3.5
+Data Analyst,Prompt Career Consultants,3-5 Yrs,Bangalore,5-9 Lacs PA,5-9 ,5.0,9.0,7.0,3-5 ,3,5,4.0
+Data Analyst,I - Insight Consulting,3-4 Yrs,Bangalore,22.5-30 Lacs PA,22.5-30 ,22.5,30.0,26.25,3-4 ,3,4,3.5
+Data Analyst,Buzzworks Business Services,4-6 Yrs,Bangalore,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,4-6 ,4,6,5.0
+Data Analyst,unnati,1-4 Yrs,Bangalore,5-6 Lacs PA,5-6 ,5.0,6.0,5.5,1-4 ,1,4,2.5
+Data Analyst,Talent500,3-6 Yrs,Bangalore,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,3-6 ,3,6,4.5
+python developer,Wipro,4-8 Yrs,hyderabad,4.5-8 Lacs PA,4.5-8 ,4.5,8.0,6.25,4-8 ,4,8,6.0
+Data Analyst,On Demand Agility Software,5-10 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,5-10 ,5,10,7.5
+Data Analyst,Ace Micromatic Manufacturing Intelligence Technologies Pvt. Ltd.,3-5 Yrs,Bangalore,7-9 Lacs PA,7-9 ,7.0,9.0,8.0,3-5 ,3,5,4.0
+Data Analyst,Adecco Group,1-4 Yrs,Bangalore,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,1-4 ,1,4,2.5
+Data Analyst,Adecco Group,1-4 Yrs,Bangalore,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,1-4 ,1,4,2.5
+Data Analyst,AXIS DIRECT,5-10 Yrs,Maharashtra,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,5-10 ,5,10,7.5
+Data Analyst,Evolute Fintech Innovation private LTD,2-5 Yrs,Bangalore,7-9 Lacs PA,7-9 ,7.0,9.0,8.0,2-5 ,2,5,3.5
+Data Analyst,Asesa Soft,2-4 Yrs,Pune,3-5 Lacs PA,3-5 ,3.0,5.0,4.0,2-4 ,2,4,3.0
+Data Analyst,Serverpoet Tech Solution,1-3 Yrs,Misc,90000-3 Lacs PA,0.9-3 ,0.9,3.0,1.95,1-3 ,1,3,2.0
+Data Analyst,de Facto Infotech Pvt Ltd,5-7 Yrs,chandigarh,4-8 Lacs PA,4-8 ,4.0,8.0,6.0,5-7 ,5,7,6.0
+Data Analyst,Digital Mapout Solutions,5-7 Yrs,hyderabad,7-9 Lacs PA,7-9 ,7.0,9.0,8.0,5-7 ,5,7,6.0
+Data Analyst,Arbro Pharmaceuticals,2-5 Yrs,Misc,2-3 Lacs PA,2-3 ,2.0,3.0,2.5,2-5 ,2,5,3.5
+python developer,Tata Consultancy Services (TCS),3-8 Yrs,Bangalore,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,3-8 ,3,8,5.5
+na,Hitech Placements,0-2 Yrs,Pune,2-3 Lacs PA,2-3 ,2.0,3.0,2.5,0-2 ,0,2,1.0
+Lead,Selective Global Search,5-10 Yrs,Bangalore,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,5-10 ,5,10,7.5
+Lead,Selective Global Search,5-10 Yrs,Bangalore,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,5-10 ,5,10,7.5
+Data Analyst,Rudder Analytics,3-6 Yrs,Pune,8-16 Lacs PA,8-16 ,8.0,16.0,12.0,3-6 ,3,6,4.5
+na,Awone Datasciences,2-4 Yrs,Bangalore,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,2-4 ,2,4,3.0
+na,Indiaexcite It Solutions,5-8 Yrs,Bangalore,15-22.5 Lacs PA,15-22.5 ,15.0,22.5,18.75,5-8 ,5,8,6.5
+na,Indiaexcite It Solutions,9-13 Yrs,Bangalore,20-32.5 Lacs PA,20-32.5 ,20.0,32.5,26.25,9-13 ,9,13,11.0
+python developer,Makonis,3-8 Yrs,Bangalore,5.5-12 Lacs PA,5.5-12 ,5.5,12.0,8.75,3-8 ,3,8,5.5
+na,Simreka,3-8 Yrs,Bangalore,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,3-8 ,3,8,5.5
+na,Araa Technologies,0-5 Yrs,Hybrid,5-10 Lacs PA,5-10 ,5.0,10.0,7.5,0-5 ,0,5,2.5
+na,Ness,5-7 Yrs,hyderabad,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,5-7 ,5,7,6.0
+ML Engineer,Mind Melt Ai Labs,2-5 Yrs,remote,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,2-5 ,2,5,3.5
+na,Poiesis Intel,11-18 Yrs,Pune,50-75 Lacs PA,50-75 ,50.0,75.0,62.5,11-18 ,11,18,14.5
+Data Analyst,Archangel Hr Solutions,2-7 Yrs,Bangalore,8-10 Lacs PA,8-10 ,8.0,10.0,9.0,2-7 ,2,7,4.5
+python developer,SRS Infoway,6-10 Yrs,Bangalore,4-8 Lacs PA,4-8 ,4.0,8.0,6.0,6-10 ,6,10,8.0
+Data Analyst,Iinsight Consulting,3-5 Yrs,Bangalore,25-30 Lacs PA,25-30 ,25.0,30.0,27.5,3-5 ,3,5,4.0
+Data Analyst,Altvu,6-11 Yrs,Bangalore,13-23 Lacs PA,13-23 ,13.0,23.0,18.0,6-11 ,6,11,8.5
+Data Analyst,Integrated Personnel Services,3-8 Yrs,Maharashtra,5-8.5 Lacs PA,5-8.5 ,5.0,8.5,6.75,3-8 ,3,8,5.5
+Data Analyst,Manpowergroup Services India,4-6 Yrs,Maharashtra,14-17 Lacs PA,14-17 ,14.0,17.0,15.5,4-6 ,4,6,5.0
+Data Analyst,Brightsun Travel Private Limited,2-6 Yrs,Gurugram,2.5-3.5 Lacs PA,2.5-3.5 ,2.5,3.5,3.0,2-6 ,2,6,4.0
+Data Analyst,SGS India,1-3 Yrs,Maharashtra,2-4 Lacs PA,2-4 ,2.0,4.0,3.0,1-3 ,1,3,2.0
+Data Analyst,Newgen,1-5 Yrs,Uttar pradesh,5.5-12 Lacs PA,5.5-12 ,5.5,12.0,8.75,1-5 ,1,5,3.0
+Data Analyst,VALUEADD SOFTTECH & SYSTEMS (VAST),4-8 Yrs,Pune,6.5-12 Lacs PA,6.5-12 ,6.5,12.0,9.25,4-8 ,4,8,6.0
+Data Analyst,Sycamore (i) Consultancy Services,3-5 Yrs,Maharashtra,18-20 Lacs PA,18-20 ,18.0,20.0,19.0,3-5 ,3,5,4.0
+Data Analyst,Spectrum Talent Management,1-3 Yrs,hyderabad,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,1-3 ,1,3,2.0
+Data Analyst,Selective Global Search,5-10 Yrs,Maharashtra,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,5-10 ,5,10,7.5
+Data Analyst,TARANTULA.NET,1-3 Yrs,hyderabad,2-5 Lacs PA,2-5 ,2.0,5.0,3.5,1-3 ,1,3,2.0
+Data Analyst,Bizionic Technologies & Marketing Solutions,2-5 Yrs,hyderabad,3-6 Lacs PA,3-6 ,3.0,6.0,4.5,2-5 ,2,5,3.5
+python developer,Cognizant,5-10 Yrs,Bangalore,4.5-9.5 Lacs PA,4.5-9.5 ,4.5,9.5,7.0,5-10 ,5,10,7.5
+python developer,Cognizant,6-11 Yrs,Bangalore,5-12 Lacs PA,5-12 ,5.0,12.0,8.5,6-11 ,6,11,8.5
+na,Tech Mahindra,8-12 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,8-12 ,8,12,10.0
+na,Coforge,4-9 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,4-9 ,4,9,6.5
+python developer,Wipro,3-6 Yrs,Bangalore,5-9 Lacs PA,5-9 ,5.0,9.0,7.0,3-6 ,3,6,4.5
+na,Netscribes,1-6 Yrs,Bangalore,1-2.5 Lacs PA,1-2.5 ,1.0,2.5,1.75,1-6 ,1,6,3.5
+python developer,Cognizant,7-12 Yrs,Bangalore,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,7-12 ,7,12,9.5
+python developer,Tech Mahindra,10-15 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,10-15 ,10,15,12.5
+python developer,Cognizant,6-11 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,6-11 ,6,11,8.5
+python developer,ITC Infotech,8-10 Yrs,Bangalore,8-15 Lacs PA,8-15 ,8.0,15.0,11.5,8-10 ,8,10,9.0
+na,Hrhonchos Consulting Solutions,2-5 Yrs,Gurugram,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,2-5 ,2,5,3.5
+Data Analyst,Kaygen Consulting,6-11 Yrs,remote,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,6-11 ,6,11,8.5
+ML Engineer,CNH Industrial,5-10 Yrs,Bangalore,20-30 Lacs PA,20-30 ,20.0,30.0,25.0,5-10 ,5,10,7.5
+na,Sahana Information,2-7 Yrs,Bangalore,7-14 Lacs PA,7-14 ,7.0,14.0,10.5,2-7 ,2,7,4.5
+na,Sciente Consulting,6-10 Yrs,remote,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,6-10 ,6,10,8.0
+na,Relevantz Technology Services,4-8 Yrs,Bangalore,9-18 Lacs PA,9-18 ,9.0,18.0,13.5,4-8 ,4,8,6.0
+na,Manpowergroup Services India,2-7 Yrs,Hybrid,13-15 Lacs PA,13-15 ,13.0,15.0,14.0,2-7 ,2,7,4.5
+Data Analyst,Vbeyond Corporation,8-13 Yrs,Bangalore,18-25 Lacs PA,18-25 ,18.0,25.0,21.5,8-13 ,8,13,10.5
+Data Analyst,I - Insight Consulting,5-8 Yrs,Bangalore,22.5-30 Lacs PA,22.5-30 ,22.5,30.0,26.25,5-8 ,5,8,6.5
+Data Analyst,Factspan Analytics,6-11 Yrs,Bangalore,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,6-11 ,6,11,8.5
+na,News Technology Services,3-7 Yrs,Bangalore,17-25 Lacs PA,17-25 ,17.0,25.0,21.0,3-7 ,3,7,5.0
+Data Analyst,Value Innovation,3-6 Yrs,Maharashtra,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,3-6 ,3,6,4.5
+Data Analyst,Foundever,3-5 Yrs,Maharashtra,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,3-5 ,3,5,4.0
+Data Analyst,Spinny,2-4 Yrs,Gurugram,7-11 Lacs PA,7-11 ,7.0,11.0,9.0,2-4 ,2,4,3.0
+Data Analyst,Mahaveer Finance India Limited,2-3 Yrs,Chennai,5-5.5 Lacs PA,5-5.5 ,5.0,5.5,5.25,2-3 ,2,3,2.5
+Data Analyst,Paramaah It Services Llp,3-6 Yrs,Bangalore,5-12 Lacs PA,5-12 ,5.0,12.0,8.5,3-6 ,3,6,4.5
+Data Analyst,KRBL Limited,1-4 Yrs,Uttar pradesh,12-18 Lacs PA,12-18 ,12.0,18.0,15.0,1-4 ,1,4,2.5
+Data Analyst,Intech Creative Services,4-8 Yrs,Maharashtra,50000-3 Lacs PA (Including Variable: 8.0%),0.5-3   ,0.5,3.0,1.75,4-8 ,4,8,6.0
+Data Analyst,SEW Engineering,3-8 Yrs,Uttar pradesh,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,3-8 ,3,8,5.5
+Data Analyst,Futureheights Training Consultant Private,1-5 Yrs,Misc,3-6 Lacs PA,3-6 ,3.0,6.0,4.5,1-5 ,1,5,3.0
+Data Analyst,Autoone Engineering Services,3-7 Yrs,Maharashtra,9.5-17 Lacs PA,9.5-17 ,9.5,17.0,13.25,3-7 ,3,7,5.0
+Data Analyst,Svs Facility Management Services,5-10 Yrs,hyderabad,3-7 Lacs PA,3-7 ,3.0,7.0,5.0,5-10 ,5,10,7.5
+Data Analyst,Vedic Systems,3-6 Yrs,hyderabad,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,3-6 ,3,6,4.5
+Data Analyst,Talent Focuz,4-6 Yrs,Chennai,5-10 Lacs PA,5-10 ,5.0,10.0,7.5,4-6 ,4,6,5.0
+Data Analyst,NetCreativeMind,4-9 Yrs,Gurugram,5-10 Lacs PA,5-10 ,5.0,10.0,7.5,4-9 ,4,9,6.5
+Data Analyst,Ivy Comptech,3-8 Yrs,hyderabad,5-14 Lacs PA,5-14 ,5.0,14.0,9.5,3-8 ,3,8,5.5
+Data Analyst,Programmers io,3-7 Yrs,remote,14-20 Lacs PA,14-20 ,14.0,20.0,17.0,3-7 ,3,7,5.0
+Data Analyst,Programmers io,3-7 Yrs,remote,13-20 Lacs PA,13-20 ,13.0,20.0,16.5,3-7 ,3,7,5.0
+Data Analyst,Spml Infra,10-20 Yrs,Kolkata,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,10-20 ,10,20,15.0
+Data Analyst,Information Dynamics (ID),6-11 Yrs,remote,7-13 Lacs PA,7-13 ,7.0,13.0,10.0,6-11 ,6,11,8.5
+Data Analyst,GR Engineering Projects,5-10 Yrs,Maharashtra,14-16 Lacs PA,14-16 ,14.0,16.0,15.0,5-10 ,5,10,7.5
+Data Analyst,KFintech,2-3 Yrs,hyderabad,7-8 Lacs PA,7-8 ,7.0,8.0,7.5,2-3 ,2,3,2.5
+Data Analyst,Information Dynamics (ID),5-10 Yrs,Chennai,7-13 Lacs PA,7-13 ,7.0,13.0,10.0,5-10 ,5,10,7.5
+Data Analyst,CES Information Technologies & BPS,10-20 Yrs,hyderabad,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,10-20 ,10,20,15.0
+na,Metaphor Infotech,4-7 Yrs,Maharashtra,7-17 Lacs PA,7-17 ,7.0,17.0,12.0,4-7 ,4,7,5.5
+manager,Infogain,12-15 Yrs,Bangalore,14-22.5 Lacs PA,14-22.5 ,14.0,22.5,18.25,12-15 ,12,15,13.5
+Data Scientist,Firstsource,8-13 Yrs,Bangalore,30-40 Lacs PA,30-40 ,30.0,40.0,35.0,8-13 ,8,13,10.5
+na,Velotio Technologies,4-9 Yrs,Hybrid,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,4-9 ,4,9,6.5
+na,"Procurement Research Centre, Arun Jaitely National Institute of Financial Management, Min Of Finance",1-4 Yrs,Gurugram,50000-70000 PA,0.5-0.7 ,0.5,0.7,0.6,1-4 ,1,4,2.5
+Data Scientist,Prss Group,8-13 Yrs,Chennai,25-35 Lacs PA,25-35 ,25.0,35.0,30.0,8-13 ,8,13,10.5
+ML Engineer,Nobreza Consulting Private Limited,6-10 Yrs,Gurugram,6-12 Lacs PA,6-12 ,6.0,12.0,9.0,6-10 ,6,10,8.0
+ML Engineer,Nobreza Consulting Private Limited,6-10 Yrs,Gurugram,6-12 Lacs PA,6-12 ,6.0,12.0,9.0,6-10 ,6,10,8.0
+ML Engineer,Spritle Software,2-5 Yrs,Chennai,1-5 Lacs PA,1-5 ,1.0,5.0,3.0,2-5 ,2,5,3.5
+Lead,Ugam Solutions Sez,7-11 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,7-11 ,7,11,9.0
+python developer,Inchcape Shipping Services,7-12 Yrs,remote,19-32.5 Lacs PA,19-32.5 ,19.0,32.5,25.75,7-12 ,7,12,9.5
+Data Analyst,Umanu,3-5 Yrs,Gujrat,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,3-5 ,3,5,4.0
+Data Analyst,Krazy Mantra,5-7 Yrs,Misc,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,5-7 ,5,7,6.0
+Data Analyst,Cygnus A D Management Consulting Llp,2-4 Yrs,remote,5.5-14 Lacs PA,5.5-14 ,5.5,14.0,9.75,2-4 ,2,4,3.0
+Data Analyst,Aithent,1-3 Yrs,Gurugram,1-5 Lacs PA,1-5 ,1.0,5.0,3.0,1-3 ,1,3,2.0
+Data Analyst,MEC Intelligence,1-2 Yrs,Gurugram,5-7 Lacs PA,5-7 ,5.0,7.0,6.0,1-2 ,1,2,1.5
+Data Analyst,Mount Talent Consulting Private Limited,6-11 Yrs,Maharashtra,5.5-12 Lacs PA,5.5-12 ,5.5,12.0,8.75,6-11 ,6,11,8.5
+Data Analyst,AIS Technolabs,1-3 Yrs,Gujrat,2-5 Lacs PA,2-5 ,2.0,5.0,3.5,1-3 ,1,3,2.0
+Data Analyst,Prominent Network Search,1-4 Yrs,Uttar pradesh,4-6 Lacs PA,4-6 ,4.0,6.0,5.0,1-4 ,1,4,2.5
+Data Analyst,White Force Outsourcing Pvt Ltd,6-11 Yrs,Gujrat,10-14 Lacs PA,10-14 ,10.0,14.0,12.0,6-11 ,6,11,8.5
+Data Analyst,White Force Outsourcing Pvt Ltd,6-11 Yrs,Gujrat,12-16 Lacs PA,12-16 ,12.0,16.0,14.0,6-11 ,6,11,8.5
+Data Analyst,Datadynamx Pvt Ltd,1-2 Yrs,Pune,1.75-3.5 Lacs PA,1.75-3.5 ,1.75,3.5,2.625,1-2 ,1,2,1.5
+Data Analyst,Place Elements Hr,3-5 Yrs,Kerala,4.5-9.5 Lacs PA,4.5-9.5 ,4.5,9.5,7.0,3-5 ,3,5,4.0
+Data Analyst,Rattan Enterprises,5-10 Yrs,remote,13-23 Lacs PA,13-23 ,13.0,23.0,18.0,5-10 ,5,10,7.5
+Data Analyst,Rattan Enterprises,5-10 Yrs,remote,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,5-10 ,5,10,7.5
+Data Analyst,Dev Solutions,5-10 Yrs,Gurugram,30-45 Lacs PA,30-45 ,30.0,45.0,37.5,5-10 ,5,10,7.5
+Data Analyst,Kreate Energy,3-5 Yrs,Gurugram,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,3-5 ,3,5,4.0
+Data Analyst,Kreate Energy,3-5 Yrs,Gurugram,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,3-5 ,3,5,4.0
+Data Analyst,E Connect Solutions,8-12 Yrs,Misc,8-12 Lacs PA,8-12 ,8.0,12.0,10.0,8-12 ,8,12,10.0
+Data Analyst,Selective Global Search,2-4 Yrs,Maharashtra,6-12 Lacs PA,6-12 ,6.0,12.0,9.0,2-4 ,2,4,3.0
+Data Analyst,Woxsen University,2-5 Yrs,hyderabad,4-6 Lacs PA,4-6 ,4.0,6.0,5.0,2-5 ,2,5,3.5
+Data Analyst,Steersman Talent Acquisition,5-10 Yrs,Uttar pradesh,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,5-10 ,5,10,7.5
+Data Analyst,Rupa & Company Ltd,5-8 Yrs,Kolkata,8-10 Lacs PA,8-10 ,8.0,10.0,9.0,5-8 ,5,8,6.5
+Data Analyst,Smarthms Solutions,2-4 Yrs,Kerala,5-8 Lacs PA,5-8 ,5.0,8.0,6.5,2-4 ,2,4,3.0
+Data Analyst,Luthra Group Company,3-8 Yrs,Gujrat,5-11 Lacs PA,5-11 ,5.0,11.0,8.0,3-8 ,3,8,5.5
+Data Analyst,InteleANTS Virtual Workforce Pvt Ltd,5-8 Yrs,Chennai,8-15 Lacs PA,8-15 ,8.0,15.0,11.5,5-8 ,5,8,6.5
+Data Analyst,Krazy Mantra,10-14 Yrs,hyderabad,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,10-14 ,10,14,12.0
+Data Analyst,Q1 Technologies India,6-11 Yrs,Gurugram,5-8 Lacs PA,5-8 ,5.0,8.0,6.5,6-11 ,6,11,8.5
+Data Analyst,Insife India,3-6 Yrs,Uttar pradesh,6-15 Lacs PA,6-15 ,6.0,15.0,10.5,3-6 ,3,6,4.5
+Data Analyst,CIEL HR,5-10 Yrs,Misc,7-9 Lacs PA,7-9 ,7.0,9.0,8.0,5-10 ,5,10,7.5
+Data Analyst,Spectraforce Technologies (india),5-8 Yrs,hyderabad,7-14 Lacs PA,7-14 ,7.0,14.0,10.5,5-8 ,5,8,6.5
+Data Analyst,E Connect Solutions,5-8 Yrs,chandigarh,8-10 Lacs PA,8-10 ,8.0,10.0,9.0,5-8 ,5,8,6.5
+Data Analyst,ITSource,5-8 Yrs,Maharashtra,10-14 Lacs PA,10-14 ,10.0,14.0,12.0,5-8 ,5,8,6.5
+Data Analyst,Universal Education,5-10 Yrs,Maharashtra,15-18 Lacs PA,15-18 ,15.0,18.0,16.5,5-10 ,5,10,7.5
+Data Analyst,Scizers IoT Pvt Ltd.,1-4 Yrs,chandigarh,3-4 Lacs PA,3-4 ,3.0,4.0,3.5,1-4 ,1,4,2.5
+Data Analyst,Talent Corner Hr Services,4-6 Yrs,Maharashtra,6-7.5 Lacs PA,6-7.5 ,6.0,7.5,6.75,4-6 ,4,6,5.0
+python developer,Coforge,4-9 Yrs,Bangalore,15-30 Lacs PA (Including Variable: 5.0%),15-30  ,15.0,30.0,22.5,4-9 ,4,9,6.5
+python developer,Tata Consultancy Services (TCS),4-9 Yrs,Chennai,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,4-9 ,4,9,6.5
+na,Hexaware Technologies,6-11 Yrs,Maharashtra,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,6-11 ,6,11,8.5
+na,Protiviti India,2-5 Yrs,Bangalore,4-7 Lacs PA,4-7 ,4.0,7.0,5.5,2-5 ,2,5,3.5
+python developer,Evoke HR,5-10 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-10 ,5,10,7.5
+python developer,Burgeon It Services,5-10 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-10 ,5,10,7.5
+python developer,Adila It Consultancy Services,6-9 Yrs,Bangalore,5-12 Lacs PA,5-12 ,5.0,12.0,8.5,6-9 ,6,9,7.5
+na,Macrohire,6-11 Yrs,Bangalore,30-40 Lacs PA,30-40 ,30.0,40.0,35.0,6-11 ,6,11,8.5
+na,Cognizant,5-10 Yrs,Hybrid,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,5-10 ,5,10,7.5
+na,Ample Softech Systems,0-5 Yrs,Maharashtra,9-15 Lacs PA,9-15 ,9.0,15.0,12.0,0-5 ,0,5,2.5
+na,Oxane Partners India Pvt. Ltd.,0-4 Yrs,Gurugram,10-14 Lacs PA,10-14 ,10.0,14.0,12.0,0-4 ,0,4,2.0
+na,Qween,8-13 Yrs,hyderabad,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,8-13 ,8,13,10.5
+na,Selective Global Search,3-5 Yrs,Bangalore,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,3-5 ,3,5,4.0
+na,Selective Global Search,3-5 Yrs,Bangalore,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,3-5 ,3,5,4.0
+ML Engineer,Black And White Business Solutions,4-9 Yrs,Bangalore,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,4-9 ,4,9,6.5
+ML Engineer,Mavenai Technologies,3-5 Yrs,Chennai,5-12 Lacs PA,5-12 ,5.0,12.0,8.5,3-5 ,3,5,4.0
+na,thinkbridge Software,4-6 Yrs,remote,12-18 Lacs PA,12-18 ,12.0,18.0,15.0,4-6 ,4,6,5.0
+ML Engineer,Sourcedesk Global,4-9 Yrs,remote,20-35 Lacs PA,20-35 ,20.0,35.0,27.5,4-9 ,4,9,6.5
+Lead,Jet2 Travel Technologies,9-13 Yrs,Pune,30-40 Lacs PA,30-40 ,30.0,40.0,35.0,9-13 ,9,13,11.0
+Lead,Smart Ship Hub Digital India,8-12 Yrs,Maharashtra,8-12 Lacs PA,8-12 ,8.0,12.0,10.0,8-12 ,8,12,10.0
+python developer,Wize Careers Consultants,5-7 Yrs,Uttar pradesh,10-17 Lacs PA,10-17 ,10.0,17.0,13.5,5-7 ,5,7,6.0
+Data Analyst,Thinkapps Solutions,6-11 Yrs,hyderabad,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,6-11 ,6,11,8.5
+Data Analyst,Smart Pro,4-9 Yrs,Chennai,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,4-9 ,4,9,6.5
+python developer,SK It Shoulders,7-12 Yrs,Hybrid,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,7-12 ,7,12,9.5
+python developer,S&P Global Market Intelligence,6-10 Yrs,hyderabad,22.5-25 Lacs PA,22.5-25 ,22.5,25.0,23.75,6-10 ,6,10,8.0
+Data Analyst,AR Consultancy Services,2-5 Yrs,Uttar pradesh,5-10 Lacs PA,5-10 ,5.0,10.0,7.5,2-5 ,2,5,3.5
+Data Analyst,Qween,3-6 Yrs,Maharashtra,16-20 Lacs PA,16-20 ,16.0,20.0,18.0,3-6 ,3,6,4.5
+Data Analyst,Quloi,5-10 Yrs,Hybrid,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,5-10 ,5,10,7.5
+Data Analyst,Vipsa Talent Solutions,3-5 Yrs,Gurugram,12-15 Lacs PA,12-15 ,12.0,15.0,13.5,3-5 ,3,5,4.0
+Data Analyst,Live Connections,7-10 Yrs,hyderabad,14-18 Lacs PA,14-18 ,14.0,18.0,16.0,7-10 ,7,10,8.5
+Data Analyst,Boyen Haddin,6-10 Yrs,Pune,13-20 Lacs PA,13-20 ,13.0,20.0,16.5,6-10 ,6,10,8.0
+Data Analyst,Avian Hr Consultancy,2-5 Yrs,Gurugram,3-6 Lacs PA,3-6 ,3.0,6.0,4.5,2-5 ,2,5,3.5
+Data Analyst,Bhagat Hr Services,3-5 Yrs,Pune,4.5-6 Lacs PA,4.5-6 ,4.5,6.0,5.25,3-5 ,3,5,4.0
+Data Analyst,Eppeok Solutions,7-8 Yrs,chandigarh,6-8 Lacs PA,6-8 ,6.0,8.0,7.0,7-8 ,7,8,7.5
+Data Analyst,Tentamus India Pvt Ltd,3-5 Yrs,hyderabad,3-6 Lacs PA,3-6 ,3.0,6.0,4.5,3-5 ,3,5,4.0
+Data Analyst,Kiash Solution Llp,4-8 Yrs,hyderabad,16-17 Lacs PA,16-17 ,16.0,17.0,16.5,4-8 ,4,8,6.0
+Data Analyst,Invicta India,2-4 Yrs,Misc,3-4 Lacs PA,3-4 ,3.0,4.0,3.5,2-4 ,2,4,3.0
+Data Analyst,Excel Hr Solutions,1-2 Yrs,Maharashtra,4.25-4.5 Lacs PA,4.25-4.5 ,4.25,4.5,4.375,1-2 ,1,2,1.5
+python developer,3minds Esolutions,4-9 Yrs,Bangalore,50000-2.25 Lacs PA,0.5-2.25 ,0.5,2.25,1.375,4-9 ,4,9,6.5
+python developer,Coforge,4-9 Yrs,Bangalore,15-30 Lacs PA (Including Variable: 7.5%),15-30  ,15.0,30.0,22.5,4-9 ,4,9,6.5
+Data Scientist,Tech Mahindra,15-25 Yrs,hyderabad,25-30 Lacs PA,25-30 ,25.0,30.0,27.5,15-25 ,15,25,20.0
+python developer,Coforge,6-11 Yrs,Bangalore,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,6-11 ,6,11,8.5
+python developer,Coforge,3-8 Yrs,Bangalore,13-23 Lacs PA (Including Variable: 5.0%),13-23  ,13.0,23.0,18.0,3-8 ,3,8,5.5
+python developer,3minds Esolutions,4-9 Yrs,remote,50000-2.25 Lacs PA,0.5-2.25 ,0.5,2.25,1.375,4-9 ,4,9,6.5
+na,HCLTech,5-10 Yrs,hyderabad,13-23 Lacs PA,13-23 ,13.0,23.0,18.0,5-10 ,5,10,7.5
+na,Tech Mahindra,6-10 Yrs,Pune,15-27.5 Lacs PA,15-27.5 ,15.0,27.5,21.25,6-10 ,6,10,8.0
+python developer,Spectrum Consulting - London,2-4 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,2-4 ,2,4,3.0
+python developer,Sahara India Pariwar,4-9 Yrs,Uttar pradesh,6-9.5 Lacs PA,6-9.5 ,6.0,9.5,7.75,4-9 ,4,9,6.5
+na,HCLTech,9-14 Yrs,Chennai,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,9-14 ,9,14,11.5
+python developer,Relevantz Technology Services,5-8 Yrs,Bangalore,10-17 Lacs PA,10-17 ,10.0,17.0,13.5,5-8 ,5,8,6.5
+python developer,Nexplace Info,5-8 Yrs,Pune,8-14 Lacs PA,8-14 ,8.0,14.0,11.0,5-8 ,5,8,6.5
+python developer,Allegis Group,3-5 Yrs,Hybrid,6-15 Lacs PA,6-15 ,6.0,15.0,10.5,3-5 ,3,5,4.0
+manager,Authentic Staffing Agency,3-5 Yrs,Bangalore,15-20 Lacs PA,15-20 ,15.0,20.0,17.5,3-5 ,3,5,4.0
+na,Genesis Hr Services,2-4 Yrs,Bangalore,1.5-3.25 Lacs PA,1.5-3.25 ,1.5,3.25,2.375,2-4 ,2,4,3.0
+python developer,S&P Global Market Intelligence,3-6 Yrs,hyderabad,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,3-6 ,3,6,4.5
+ML Engineer,Gadgeon Smart Systems,3-8 Yrs,Kerala,8-18 Lacs PA,8-18 ,8.0,18.0,13.0,3-8 ,3,8,5.5
+data engineer,Peoplelogic Business Solutions,4-9 Yrs,Hybrid,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-9 ,4,9,6.5
+ML Engineer,Jotwani Associates,2-5 Yrs,Gurugram,12-16 Lacs PA,12-16 ,12.0,16.0,14.0,2-5 ,2,5,3.5
+Data Analyst,Comviva Technology,2-4 Yrs,Gurugram,7.5-11 Lacs PA,7.5-11 ,7.5,11.0,9.25,2-4 ,2,4,3.0
+Data Scientist,Infocredit Services,11-14 Yrs,hyderabad,45-55 Lacs PA,45-55 ,45.0,55.0,50.0,11-14 ,11,14,12.5
+python developer,Ugam Solutions Sez,5-8 Yrs,Bangalore,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,5-8 ,5,8,6.5
+na,Systechcorp Inc,3-5 Yrs,Bangalore,1-3 Lacs PA,1-3 ,1.0,3.0,2.0,3-5 ,3,5,4.0
+Data Scientist,Luxoft,5-10 Yrs,Bangalore,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,5-10 ,5,10,7.5
+python developer,Sightspectrum,3-8 Yrs,Bangalore,12-20 Lacs PA,12-20 ,12.0,20.0,16.0,3-8 ,3,8,5.5
+Data Scientist,UST,10-15 Yrs,Bangalore,25-30 Lacs PA,25-30 ,25.0,30.0,27.5,10-15 ,10,15,12.5
+python developer,Spectrum Consulting - London,2-4 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,2-4 ,2,4,3.0
+na,Innominds Software,5-9 Yrs,Bangalore,16-20 Lacs PA,16-20 ,16.0,20.0,18.0,5-9 ,5,9,7.0
+ML Engineer,Career Tree Hr Solutions,5-10 Yrs,Gurugram,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,5-10 ,5,10,7.5
+ML Engineer,Paxcom India,2-5 Yrs,Gurugram,14-22.5 Lacs PA,14-22.5 ,14.0,22.5,18.25,2-5 ,2,5,3.5
+ML Engineer,KP Hr And Infra Services,4-6 Yrs,Pune,5-9 Lacs PA,5-9 ,5.0,9.0,7.0,4-6 ,4,6,5.0
+ML Engineer,Meera Hr Verticals,4-6 Yrs,Hybrid,10-13 Lacs PA,10-13 ,10.0,13.0,11.5,4-6 ,4,6,5.0
+ML Engineer,The Fastest Media Company,2-7 Yrs,Gujrat,3-6 Lacs PA,3-6 ,3.0,6.0,4.5,2-7 ,2,7,4.5
+python developer,Post A Resume,15-20 Yrs,Gujrat,18-30 Lacs PA,18-30 ,18.0,30.0,24.0,15-20 ,15,20,17.5
+na,EXL,4-8 Yrs,Bangalore,10-18 Lacs PA,10-18 ,10.0,18.0,14.0,4-8 ,4,8,6.0
+python developer,D4 Insight,5-10 Yrs,Bangalore,14-24 Lacs PA,14-24 ,14.0,24.0,19.0,5-10 ,5,10,7.5
+python developer,Krazy Mantra,6-10 Yrs,Bangalore,12-19 Lacs PA,12-19 ,12.0,19.0,15.5,6-10 ,6,10,8.0
+na,Krazy Mantra,4-6 Yrs,Bangalore,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,4-6 ,4,6,5.0
+na,GUS EDUCATION INDIA,5-9 Yrs,hyderabad,15-19 Lacs PA,15-19 ,15.0,19.0,17.0,5-9 ,5,9,7.0
+Data Scientist,Course5 Intelligence,15-24 Yrs,Bangalore,35-80 Lacs PA,35-80 ,35.0,80.0,57.5,15-24 ,15,24,19.5
+na,Clairvoyant India,3-8 Yrs,Bangalore,50000-3 Lacs PA,0.5-3 ,0.5,3.0,1.75,3-8 ,3,8,5.5
+na,KPI Partners,6-10 Yrs,Bangalore,15 Lacs PA,15 ,15.0,15.0,15.0,6-10 ,6,10,8.0
+python developer,Krazy Mantra,5-10 Yrs,Bangalore,12-22 Lacs PA,12-22 ,12.0,22.0,17.0,5-10 ,5,10,7.5
+python developer,Astreon Technologies,4-9 Yrs,Bangalore,8-14 Lacs PA,8-14 ,8.0,14.0,11.0,4-9 ,4,9,6.5
+python developer,Allgovision Technologies,3-6 Yrs,Bangalore,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,3-6 ,3,6,4.5
+na,Krazy Mantra,4-6 Yrs,Bangalore,8-16 Lacs PA,8-16 ,8.0,16.0,12.0,4-6 ,4,6,5.0
+na,Krazy Mantra,4-6 Yrs,Bangalore,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,4-6 ,4,6,5.0
+na,Bhumi iTech Pvt Ltd,2-5 Yrs,Gurugram,5-10 Lacs PA,5-10 ,5.0,10.0,7.5,2-5 ,2,5,3.5
+na,CIEL HR,3-5 Yrs,Bangalore,3.75-6.5 Lacs PA,3.75-6.5 ,3.75,6.5,5.125,3-5 ,3,5,4.0
+python developer,Cirruslabs,4-9 Yrs,Bangalore,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-9 ,4,9,6.5
+na,Buzzworks Business Services,6-8 Yrs,Bangalore,11-21 Lacs PA,11-21 ,11.0,21.0,16.0,6-8 ,6,8,7.0
+na,KPI Partners,6-11 Yrs,Bangalore,15-27.5 Lacs PA,15-27.5 ,15.0,27.5,21.25,6-11 ,6,11,8.5
+na,Fragma Data Systems,4-9 Yrs,remote,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,4-9 ,4,9,6.5
+python developer,Future Focus Infotech,5-10 Yrs,Bangalore,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,5-10 ,5,10,7.5
+Data Scientist,Codeforce 360,9-12 Yrs,hyderabad,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,9-12 ,9,12,10.5
+na,Inchcape Shipping Services,5-8 Yrs,remote,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,5-8 ,5,8,6.5
+na,CIEL HR,4-8 Yrs,Hybrid,12-20 Lacs PA,12-20 ,12.0,20.0,16.0,4-8 ,4,8,6.0
+na,Innovior Pty. Ltd.,3-8 Yrs,hyderabad,9-19 Lacs PA,9-19 ,9.0,19.0,14.0,3-8 ,3,8,5.5
+na,Excelra,10-15 Yrs,hyderabad,40-45 Lacs PA,40-45 ,40.0,45.0,42.5,10-15 ,10,15,12.5
+Lead,Straategic Hrd Consultancy Service,5-10 Yrs,hyderabad,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,5-10 ,5,10,7.5
+python developer,Pegasus Knowledge Solutions India,5-10 Yrs,Bangalore,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,5-10 ,5,10,7.5
+python developer,Jobstv India,5-10 Yrs,Bangalore,19-22.5 Lacs PA,19-22.5 ,19.0,22.5,20.75,5-10 ,5,10,7.5
+python developer,Inumellas Consultancy Services,6-11 Yrs,Bangalore,18-27.5 Lacs PA,18-27.5 ,18.0,27.5,22.75,6-11 ,6,11,8.5
+python developer,1Point1,5-8 Yrs,Maharashtra,10-15 Lacs PA,10-15 ,10.0,15.0,12.5,5-8 ,5,8,6.5
+python developer,Tekeinstein,3-7 Yrs,remote,3-8 Lacs PA,3-8 ,3.0,8.0,5.5,3-7 ,3,7,5.0
+na,Human Asset,3-7 Yrs,Maharashtra,5.5-15 Lacs PA,5.5-15 ,5.5,15.0,10.25,3-7 ,3,7,5.0
+python developer,Wize Careers Consultants,6-8 Yrs,Maharashtra,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,6-8 ,6,8,7.0
+python developer,Clairvoyant India,4-7 Yrs,remote,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,4-7 ,4,7,5.5
+python developer,Shorthills Tech,2-4 Yrs,Gurugram,20-25 Lacs PA,20-25 ,20.0,25.0,22.5,2-4 ,2,4,3.0
+na,Reliable Autotech,1-4 Yrs,Maharashtra,3-4.5 Lacs PA,3-4.5 ,3.0,4.5,3.75,1-4 ,1,4,2.5
+na,Reliable Autotech,1-4 Yrs,Maharashtra,3-4.5 Lacs PA,3-4.5 ,3.0,4.5,3.75,1-4 ,1,4,2.5
+na,Nxtwave Disruptive Technologies,1-2 Yrs,hyderabad,3-4 Lacs PA,3-4 ,3.0,4.0,3.5,1-2 ,1,2,1.5
+python developer,ABL Education,2-4 Yrs,Uttar pradesh,3-6 Lacs PA,3-6 ,3.0,6.0,4.5,2-4 ,2,4,3.0
+Data Scientist,Lemon Tree Staffing,9-14 Yrs,Gurugram,50-60 Lacs PA,50-60 ,50.0,60.0,55.0,9-14 ,9,14,11.5
+python developer,Evoke HR,3-8 Yrs,Gurugram,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,3-8 ,3,8,5.5
+python developer,Adastra Corp,3-6 Yrs,remote,8-15 Lacs PA,8-15 ,8.0,15.0,11.5,3-6 ,3,6,4.5
+python developer,Gi Group,4-9 Yrs,Gurugram,6-16 Lacs PA,6-16 ,6.0,16.0,11.0,4-9 ,4,9,6.5
+python developer,Indium Software,4-9 Yrs,remote,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,4-9 ,4,9,6.5
+python developer,NR Consulting,8-12 Yrs,remote,15-30 Lacs PA,15-30 ,15.0,30.0,22.5,8-12 ,8,12,10.0
+na,NareshIT,5-10 Yrs,hyderabad,5-15 Lacs PA,5-15 ,5.0,15.0,10.0,5-10 ,5,10,7.5
+Data Scientist,Prativa Devi Paul,5-10 Yrs,Kolkata,5-14 Lacs PA,5-14 ,5.0,14.0,9.5,5-10 ,5,10,7.5
+python developer,Insife India,3-6 Yrs,Uttar pradesh,8-15 Lacs PA,8-15 ,8.0,15.0,11.5,3-6 ,3,6,4.5
+python developer,Kizora Software,3-6 Yrs,Maharashtra,8-10 Lacs PA,8-10 ,8.0,10.0,9.0,3-6 ,3,6,4.5
+python developer,Cyret Technologies,5-7 Yrs,Misc,12-14 Lacs PA,12-14 ,12.0,14.0,13.0,5-7 ,5,7,6.0
+python developer,EXL,4-9 Yrs,Gurugram,17-32 Lacs PA,17-32 ,17.0,32.0,24.5,4-9 ,4,9,6.5
+python developer,Self Tech Solutions,2-7 Yrs,Misc,4-9 Lacs PA,4-9 ,4.0,9.0,6.5,2-7 ,2,7,4.5
+na,Krazy Mantra,3-8 Yrs,Chennai,15-25 Lacs PA,15-25 ,15.0,25.0,20.0,3-8 ,3,8,5.5
+python developer,Manek Consulting,2-4 Yrs,Maharashtra,10-20 Lacs PA,10-20 ,10.0,20.0,15.0,2-4 ,2,4,3.0
+python developer,Avi Networks,3-7 Yrs,chandigarh,70000-1.5 Lacs PA,0.7-1.5 ,0.7,1.5,1.1,3-7 ,3,7,5.0
+manager,Kellton,7-12 Yrs,Gurugram,10-17 Lacs PA,10-17 ,10.0,17.0,13.5,7-12 ,7,12,9.5
+na,Premium,2-7 Yrs,Maharashtra,13-23 Lacs PA,13-23 ,13.0,23.0,18.0,2-7 ,2,7,4.5
+python developer,Boolean Digital Studio Llp,3-5 Yrs,Uttar pradesh,40 Lacs PA,40 ,40.0,40.0,40.0,3-5 ,3,5,4.0
+manager,Kellton,7-12 Yrs,Gurugram,10-17 Lacs PA,10-17 ,10.0,17.0,13.5,7-12 ,7,12,9.5
+python developer,e Zest,5-9 Yrs,Pune,5.5-15.5 Lacs PA,5.5-15.5 ,5.5,15.5,10.5,5-9 ,5,9,7.0
